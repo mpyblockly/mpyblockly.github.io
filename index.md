@@ -17,23 +17,23 @@ MPY Blockly also supports standard  'text' programming for those who prefer to u
 
 <table width='100%'  style="padding:10px;border:0px">
   <tr>
-    <td width="45%"><img src="./assets/fi1.png" width="80"></td>
+    <td style="width:40%;"><img src="./assets/fi1.png" width="70"></td>
     <td width="10%"></td>
-    <td width="45%"><img src="./assets/fi2_1.png" width="80"><img src="./assets/fi2_2.png" width="80"><img src="./assets/fi2_3.png" width="80"></td>
+    <td style="width:40%;"><img src="./assets/fi2_1.png" width="70"><img src="./assets/fi2_2.png" width="70"><img src="./assets/fi2_3.png" width="70"></td>
   </tr>
   <tr>
-    <td>简单易用。通过简单拖拽模块，在不写一行代码的前提下，即使是一个初学者也能很快制作出例如“气象站”这样的作品.<br/></td>
+    <td style="width:40%;">简单易用。通过简单拖拽模块，在不写一行代码的前提下，即使是一个初学者也能很快制作出例如“气象站”这样的作品.<br/></td>
     <td width="10%"></td>
-    <td>支持硬件模块多。包括主流的上百种传感器、马达、音频以及显示设备。<br/></td>
+    <td style="width:40%;">支持硬件模块多。包括主流的上百种传感器、马达、音频以及显示设备。<br/></td>
   </tr>
   <tr>
-    <td><img src="./assets/fi3_1.png" width="80"><img src="./assets/fi3_2.png" width="80"><img src="./assets/fi3_3.png" width="80"></td>
+    <td style="width:40%;"><img src="./assets/fi3_1.png" width="70"><img src="./assets/fi3_2.png" width="70"><img src="./assets/fi3_3.png" width="70"></td>
     <td width="10%"></td>
-    <td width="45%"><img src="./assets/fi4_1.png" width="80"><img src="./assets/fi4_2.png" width="80"></td>
+    <td style="width:40%;"><img src="./assets/fi4_1.png" width="70"><img src="./assets/fi4_2.png" width="70"></td>
   </tr>
   <tr>
-    <td>内建支持Wifi、蓝牙、串口等基础通信协议。内建支持MQTT、Blynk等IoT协议，内建支持网络对时、天气服务等多种互联网协议。<br/></td>
+    <td style="width:40%;">内建支持Wifi、蓝牙、串口等基础通信协议。内建支持MQTT、Blynk等IoT协议，内建支持网络对时、天气服务等多种互联网协议。</td>
     <td width="10%"></td>
-    <td width="45%">内置代码编辑器，内置串口监视器。<br/></td>
+    <td style="width:40%;">内置代码编辑器，内置串口监视器。<br/></td>
   </tr>
 </table>
