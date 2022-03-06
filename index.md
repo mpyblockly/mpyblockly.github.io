@@ -12,7 +12,7 @@ MPY Blockly also supports standard  'text' programming for those who prefer to u
 *<font size=2>A feature-rich MCU with integrated Wi-Fi and Bluetooth connectivity for a wide-range of applications</font>*
 
  ----
- ![](./assets/screenshot1.png "MPY Blockly")
+ ![Srceenshot](./assets/screenshot1.png "MPY Blockly")
 
  # Features
 
