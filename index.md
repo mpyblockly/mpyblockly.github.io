@@ -33,37 +33,40 @@ MPY Blockly also supports standard  'text' programming for those who prefer to u
 
 <img src="./assets/screenshot1.png"/>
 
+----
 # Features
 
 <div class="divTable" style="width: 100%;" >
 <div class="divTableBody">
 <div class="divTableRow">
-<div class="divTableCell"><img src="./assets/fi1.png" width="70"></div>
-<div class="divTableCell"><img src="./assets/fi2_1.png" width="70"><img src="./assets/fi2_2.png" width="70"><img src="./assets/fi2_3.png" width="70"></div>
+<div class="divTableCell"><img src="./assets/fi1.png" width="60"></div>
+<div class="divTableCell"><img src="./assets/fi2_1.png" width="60"><img src="./assets/fi2_2.png" width="60"><img src="./assets/fi2_3.png" width="60"></div>
 </div>
 <div class="divTableRow">
-<div class="divTableCell"><strong>简单易用</strong></div>
-<div class="divTableCell"><strong>硬件模块</strong></div>
+<div class="divTableCell"><strong>Simple to use</strong></div>
+<div class="divTableCell"><strong>Hardware module</strong></div>
 </div>
 <div class="divTableRow">
-<div class="divTableCell">简单易用。通过简单拖拽模块，在不写一行代码的前提下，即使是一个初学者也能很快制作出例如“气象站”这样的作品.</div>
-<div class="divTableCell">支持硬件模块多。包括主流的上百种传感器、马达、音频以及显示设备。</div>
+<div class="divTableCell">By simply dragging and dropping modules, even a beginner can quickly create works such as "Weather Station" without writing a single line of code.</div>
+<div class="divTableCell">Supports many hardware modules. Including hundreds of mainstream sensors, motors, audio and display devices.</div>
 </div>
 <div class="divTableRow">
 <div class="divTableCell">&nbsp;</div>
 <div class="divTableCell">&nbsp;</div>
 </div>
 <div class="divTableRow">
-<div class="divTableCell"><img src="./assets/fi3_1.png" width="70"><img src="./assets/fi3_2.png" width="70"><img src="./assets/fi3_3.png" width="70"></div>
-<div class="divTableCell"><img src="./assets/fi4_1.png" width="70"><img src="./assets/fi4_2.png" width="70"></div>
+<div class="divTableCell"><img src="./assets/fi3_1.png" width="60"><img src="./assets/fi3_2.png" width="60"><img src="./assets/fi3_3.png" width="60"></div>
+<div class="divTableCell"><img src="./assets/fi4_1.png" width="60"><img src="./assets/fi4_2.png" width="60"></div>
 </div>
 <div class="divTableRow">
-<div class="divTableCell"><strong>多种协议</strong></div>
-<div class="divTableCell"><strong>附加功能</strong></div>
+<div class="divTableCell"><strong>Multiple protocols</strong></div>
+<div class="divTableCell"><strong>Additional features</strong></div>
 </div>
 <div class="divTableRow">
-<div class="divTableCell">内建支持Wifi、蓝牙、串口等基础通信协议。内建支持MQTT、Blynk等IoT协议，内建支持网络对时、天气服务等多种互联网协议。</div>
-<div class="divTableCell">内置代码编辑器，内置串口监视器。</div>
+<div class="divTableCell">Built-in support for many communication protocols such as Wifi, Bluetooth, serial port, etc. <br/>Built-in support for IoT protocols such as MQTT and Blynk<br/> built-in support for network time synchronization, weather services and other Internet protocols.
+</div>
+<div class="divTableCell">Built-in code editor.<br/> built-in serial monitor.<br/>Auto save<br/>Automatically detect serial ports
+</div>
 </div>
 </div>
 </div>
