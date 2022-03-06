@@ -44,7 +44,7 @@ MPY Blockly also supports standard  'text' programming for those who prefer to u
 </div>
 <div class="divTableRow">
 <div class="divTableCell"><strong>Simple to use</strong></div>
-<div class="divTableCell"><strong>Hardware module</strong></div>
+<div class="divTableCell"><strong>External Components</strong></div>
 </div>
 <div class="divTableRow">
 <div class="divTableCell">By simply dragging and dropping modules, even a beginner can quickly create works such as "Weather Station" without writing a single line of code.</div>
@@ -84,4 +84,8 @@ MPY Blockly also supports standard  'text' programming for those who prefer to u
 - **Network**<img src="./assets/icons/catNetwork.png">Network,<img src="./assets/icons/catIoT.png">IoT
 
 
-# Supported External Components
+# Supported Hardwares
+## MCUs
+|esp32 devkitC 32d|esp32 devkitC 32u|esp32 devkitC Wrover|esp32 goouuuu|esp32 mini borad|esp32 nodemcu 32s|esp32 t8 psram|esp32 uno d1r32|
+|--|--|--|--|--|--|--|--|
+|<img src="./assets/hardwares/esp32_devkitC_wroom_32d.jpg" width='150px'>|<img src="./assets/hardwares/esp32_devkitC_wroom_32u.jpg" width='150px'>|<img src="./assets/hardwares/esp32_devkitC_wrover.jpg" width='150px'>|<img src="./assets/hardwares/esp32_goouuuu.jpg" width='150px'>|<img src="./assets/hardwares/esp32_mini_borad.jpg" width='150px'>|<img src="./assets/hardwares/esp32_nodemcu_32s.jpg" width='150px'>|<img src="./assets/hardwares/esp32_t8_psram.jpg" width='150px'>|<img src="./assets/hardwares/esp32_uno_d1_r32.jpg" width='150px'>
