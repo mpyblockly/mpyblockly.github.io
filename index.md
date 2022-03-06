@@ -15,4 +15,9 @@ MPY Blockly also supports standard  'text' programming for those who prefer to u
  ![Srceenshot](./assets/screenshot1.png "MPY Blockly")
 
  # Features
-
+<!-- --> | <!-- --> 
+------------- | -------------
+<img src="./assets/f1.png" width=400 ></img>| <img src="./assets/f2.png" width=400 ></img>
+简单易用。即使是一个初学者也能很快制作出例如“气象站这样的作品”  | 支持硬件模块多。包括主流的上百种传感器、马达、音频以及显示设备。 
+<img src="./assets/f1.png" width=400 ></img>|<img src="./assets/f1.png" width=400 ></img>
+内建支持Wifi、蓝牙、串口等基础通信协议。<br/>内建支持MQTT、Blynk等IoT协议。<br/>内建支持网络对时、天气服务等多种互联网协议。| 内置串口监视器。
