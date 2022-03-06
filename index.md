@@ -4,10 +4,13 @@ This simple click’n’drag programming method allows you to rapidly develop co
 
 MPY Blockly also supports standard  'text' programming for those who prefer to use a text editor for programming. 
 
-### *Micropython*
+#### *Micropython*
 <font size=2>*MicroPython is a lean and efficient implementation of the Python 3 programming language that includes a small subset of the Python standard library and is optimised to run on microcontrollers and in constrained environments.*</font>
 
-### *ESP32*
+#### *ESP32*
 <font size=2>*A feature-rich MCU with integrated Wi-Fi and Bluetooth connectivity for a wide-range of applications*</font>
 
+ ----
  ![](./assets/screenshot1.png "Title is optional")
+
+ # Features
