@@ -1,8 +1,9 @@
-## mpyblockly
+# What is MPYBLOCKLY?
+MPYBLOCKLY is a free visual  programming tools for Micropython on ESP32.By stacking coloured blocks on top of each other a control program can be rapidly generated. This simple click’n’drag programming method allows you to rapidly develop control sequences for real life microcontroller projects. This programming method is very similar to Scratch 3.
 
-You can use the [editor on GitHub](https://github.com/mpyblockly/mpyblockly/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+MPYBLOCKLY also supports standard  'text' programming for those who prefer to use a text editor for programming. 
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+
 
 ### Markdown
 
