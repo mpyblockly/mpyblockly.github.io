@@ -63,12 +63,15 @@ MPY Blockly also supports standard  'text' programming for those who prefer to u
 <div class="divTableCell"><strong>Additional features</strong></div>
 </div>
 <div class="divTableRow">
-<div class="divTableCell">Built-in support for many communication protocols such as Wifi, Bluetooth, serial port, etc. <br/>Built-in support for IoT protocols such as MQTT and Blynk<br/> built-in support for network time synchronization, weather services and other Internet protocols.
+<div class="divTableCell">Built-in support for many communication protocols such as Wifi, Bluetooth, serial port, etc. <br/>Built-in support for IoT protocols such as MQTT and Blynk<br/> Built-in support for network time synchronization, weather services and other Internet protocols.
 </div>
-<div class="divTableCell">Built-in code editor.<br/> built-in serial monitor.<br/>Auto save<br/>Automatically detect serial ports
+<div class="divTableCell">Built-in code editor.<br/> Built-in serial monitor.<br/>Auto save<br/>Automatically detect serial ports
 </div>
 </div>
 </div>
 </div>
 
-
+# Why MPY Blockly?
+* For beginners, use MPY Blockly to get started quickly. Even without any programming or hardware foundation. Kids and teens can also start learning programming with MPY Blockly.
+* For programmers who are inexperienced in hardware, MPY Blockly can quickly drive a series of common hardware modules such as microcontrollers, various sensors, various motors, buttons, audio equipment, monochrome and color displays, RGB  strips, etc.
+* Even for professionals, MPY Blockly integrates various hardware drivers (all tested in detail) and various Internet communication protocols, which can greatly reduce the development workload.
