@@ -85,16 +85,19 @@ MPY Blockly also supports standard  'text' programming for those who prefer to u
 
 
 # Supported Hardwares
-| First Header | Second Header |
-| ------------ | ------------- |
-| Content Cell | Content Cell  |
-| Content Cell | Content Cell  |
+    |UDA1334A board pin|Pyboard V1.1 pin|Pyboard D pin|ESP32 pin|Pico Pin|Teensy 4.1 pin|
+    |--|--|--|--|--|--|
+    |3V0|3V3|3V3|3V3|3V3|3.3V|
+    |GND|GND|GND|GND|GND|GND|
+    |BCLK|Y6|Y6|32|16|4|
+    |WSEL|Y5|Y5|25|17|3|
+    |DIN|Y8|Y8|33|18|2|
 ## MCUs
-| esp32 devkitC 32d                                                        | esp32 devkitC 32u                                                        | esp32 devkitC Wrover                                                  | esp32 goouuuu                                                  | esp32 mini borad                                                  | esp32 nodemcu 32s                                                  | esp32 t8 psram                                                  | esp32 uno d1r32                                                   |
-| ------------------------------------------------------------------------ | ------------------------------------------------------------------------ | --------------------------------------------------------------------- | -------------------------------------------------------------- | ----------------------------------------------------------------- | ------------------------------------------------------------------ | --------------------------------------------------------------- | ----------------------------------------------------------------- |
-| <img src="./assets/hardwares/esp32_devkitC_wroom_32d.jpg" width='150px'> | <img src="./assets/hardwares/esp32_devkitC_wroom_32u.jpg" width='150px'> | <img src="./assets/hardwares/esp32_devkitC_wrover.jpg" width='150px'> | <img src="./assets/hardwares/esp32_goouuuu.jpg" width='150px'> | <img src="./assets/hardwares/esp32_mini_borad.jpg" width='150px'> | <img src="./assets/hardwares/esp32_nodemcu_32s.jpg" width='150px'> | <img src="./assets/hardwares/esp32_t8_psram.jpg" width='150px'> | <img src="./assets/hardwares/esp32_uno_d1_r32.jpg" width='150px'> |
+|esp32 devkitC 32d|esp32 devkitC 32u|esp32 devkitC Wrover|esp32 goouuuu|esp32 mini borad|esp32 nodemcu 32s|esp32 t8 psram|esp32 uno d1r32|
+|--|--|--|--|--|--|--|--|
+|<img src="./assets/hardwares/esp32_devkitC_wroom_32d.jpg" width='150px'>|<img src="./assets/hardwares/esp32_devkitC_wroom_32u.jpg" width='150px'>|<img src="./assets/hardwares/esp32_devkitC_wrover.jpg" width='150px'>|<img src="./assets/hardwares/esp32_goouuuu.jpg" width='150px'>|<img src="./assets/hardwares/esp32_mini_borad.jpg" width='150px'>|<img src="./assets/hardwares/esp32_nodemcu_32s.jpg" width='150px'>|<img src="./assets/hardwares/esp32_t8_psram.jpg" width='150px'>|<img src="./assets/hardwares/esp32_uno_d1_r32.jpg" width='150px'>|
 ## Displays
 ### TFT
-| esp32 devkitC 32d                                                        | esp32 devkitC 32u                                                        | esp32 devkitC Wrover                                                  | esp32 goouuuu                                                  | esp32 mini borad                                                  | esp32 nodemcu 32s                                                  | esp32 t8 psram                                                  | esp32 uno d1r32                                                   |
-| ------------------------------------------------------------------------ | ------------------------------------------------------------------------ | --------------------------------------------------------------------- | -------------------------------------------------------------- | ----------------------------------------------------------------- | ------------------------------------------------------------------ | --------------------------------------------------------------- | ----------------------------------------------------------------- |
-| <img src="./assets/hardwares/esp32_devkitC_wroom_32d.jpg" width='150px'> | <img src="./assets/hardwares/esp32_devkitC_wroom_32u.jpg" width='150px'> | <img src="./assets/hardwares/esp32_devkitC_wrover.jpg" width='150px'> | <img src="./assets/hardwares/esp32_goouuuu.jpg" width='150px'> | <img src="./assets/hardwares/esp32_mini_borad.jpg" width='150px'> | <img src="./assets/hardwares/esp32_nodemcu_32s.jpg" width='150px'> | <img src="./assets/hardwares/esp32_t8_psram.jpg" width='150px'> | <img src="./assets/hardwares/esp32_uno_d1_r32.jpg" width='150px'> |
+|esp32 devkitC 32d|esp32 devkitC 32u|esp32 devkitC Wrover|esp32 goouuuu|esp32 mini borad|esp32 nodemcu 32s|esp32 t8 psram|esp32 uno d1r32|
+|--|--|--|--|--|--|--|--|
+|<img src="./assets/hardwares/esp32_devkitC_wroom_32d.jpg" width='150px'>|<img src="./assets/hardwares/esp32_devkitC_wroom_32u.jpg" width='150px'>|<img src="./assets/hardwares/esp32_devkitC_wrover.jpg" width='150px'>|<img src="./assets/hardwares/esp32_goouuuu.jpg" width='150px'>|<img src="./assets/hardwares/esp32_mini_borad.jpg" width='150px'>|<img src="./assets/hardwares/esp32_nodemcu_32s.jpg" width='150px'>|<img src="./assets/hardwares/esp32_t8_psram.jpg" width='150px'>|<img src="./assets/hardwares/esp32_uno_d1_r32.jpg" width='150px'>|
