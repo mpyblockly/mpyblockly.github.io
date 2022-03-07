@@ -123,6 +123,6 @@ MPY Blockly also supports standard  'text' programming for those who prefer to u
 
 ### Sensors - Temperature
 
-|LCD 16x2|LCD 20x4|tm1367 segment led|mxa7219 led matrix|ws2812 led matrix|ws2812 led ring|ws2812 led strip|
+|dht11|dht22|bmp280|bmp180|sht3x|ds18b20|MLX90614|
 |--|--|--|--|--|--|--|
-|<img src="./assets/hardwares/lcd1602.jpg" width='150px'>|<img src="./assets/hardwares/lcd2004.jpg" width='150px'>|<img src="./assets/hardwares/tm1367.jpg" width='150px'>|<img src="./assets/hardwares/mxa7219_led_matrix.jpg" width='150px'>|<img src="./assets/hardwares/ws2812_led_matrix.jpg" width='150px'>|<img src="./assets/hardwares/ws2812_led_ring.jpg" width='150px'>|<img src="./assets/hardwares/ws2812_led_strip.jpg" width='150px'>|
+|<img src="./assets/hardwares/dht11.png" width='150px'>|<img src="./assets/hardwares/dht22.jpg" width='150px'>|<img src="./assets/hardwares/bmp280.jpg" width='150px'>|<img src="./assets/hardwares/bmp180.jpg" width='150px'>|<img src="./assets/hardwares/sht3x.jpg" width='150px'>|<img src="./assets/hardwares/ds18b20.jpg" width='150px'>|<img src="./assets/hardwares/MLX90614.jpg" width='150px'>|
