@@ -94,7 +94,7 @@ MPY Blockly also supports standard  'text' programming for those who prefer to u
 - **Network**<img src="./assets/icons/catNetwork.png">Network|<img src="./assets/icons/catIoT.png">IoT -->
 
 
-## Supported Hardwares
+## Built-in supported Hardwares
 
 
 ### MCU
@@ -123,12 +123,19 @@ MPY Blockly also supports standard  'text' programming for those who prefer to u
 
 ### Sensors - Temperature
 
-|dht11|dht22|lis3dh|bmp180|sht3x|ds18b20|MLX90614|
+|DHT11 Temp&Humi |DHT22 Temp&Humi|BMP280 Temp&Humi Pressure |BMP180 Temp&Humi Pressuree|sht3x High Accuracy Temp&Humi|ds18b20 Temp |MLX90614  Infrared Thermometer|
 |--|--|--|--|--|--|--|
 |<img src="./assets/hardwares/dht11.png" width='150px'>|<img src="./assets/hardwares/dht22.jpg" width='150px'>|<img src="./assets/hardwares/bmp280.jpg" width='150px'>|<img src="./assets/hardwares/bmp180.jpg" width='150px'>|<img src="./assets/hardwares/sht3x.jpg" width='150px'>|<img src="./assets/hardwares/ds18b20.jpg" width='150px'>|<img src="./assets/hardwares/MLX90614.jpg" width='150px'>|
 
 ### Sensors - Distance&Acceleromter&Motion&Compass
 
-|hcsr04|vl53l0|vl53l1|lis3dh|mpu6050|mpu9250|hmc5883l|qmc5883|
+|HC-SR04 Ultrasonic Distance|Vl53l0 ToF ranging|Vl53l1 ToF ranging|LIS3DH 3-Axis Motion|MPU6050 6-Axis Motion|MPU9250  9-Axis Motion |HMC5883l 3-Axis  Compass|QMC5883 3-Axis Magnetic|
 |--|--|--|--|--|--|--|--|
 |<img src="./assets/hardwares/hcsr04.png" width='150px'>|<img src="./assets/hardwares/vl53l0.jpg" width='150px'>|<img src="./assets/hardwares/vl53l1.jpg" width='150px'>|<img src="./assets/hardwares/lis3dh.jpg" width='150px'>|<img src="./assets/hardwares/mpu6050.jpg" width='150px'>|<img src="./assets/hardwares/mpu9250.jpg" width='150px'>|<img src="./assets/hardwares/hmc5883l.jpg" width='150px'>|<img src="./assets/hardwares/hmc5883l.jpg" width='qmc5883'>|
+
+### Sensors - Others
+
+|APDS9930 Light Proximity|MAX30102 Oximeter Heart-Rate|TCS3472 Color|
+|--|--|--|
+|<img src="./assets/hardwares/apds9930.jpg" width='150px'>|<img src="./assets/hardwares/max30102.jpg" width='150px'>|<img src="./assets/hardwares/tcs3472.jpg" width='150px'>|
+
