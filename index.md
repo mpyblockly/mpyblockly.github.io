@@ -33,6 +33,11 @@ MPY Blockly also supports standard  'text' programming for those who prefer to u
 
 <img src="./assets/screenshot1.png"/>
 
+# Why MPY Blockly?
+- For beginners, use MPY Blockly to get started quickly. Even without any programming or hardware foundation. Kids and teens can also start learning programming with MPY Blockly.
+- For programmers who are inexperienced in hardware, MPY Blockly can quickly drive a series of common hardware modules such as microcontrollers, various sensors, various motors, buttons, audio equipment, monochrome and color displays, RGB  strips, etc.
+- Even for professionals, MPY Blockly integrates various hardware drivers (all tested in detail) and various Internet communication protocols, which can greatly reduce the development workload.
+
 ----
 # Features
 
@@ -71,19 +76,18 @@ MPY Blockly also supports standard  'text' programming for those who prefer to u
 </div>
 </div>
 
-# Why MPY Blockly?
-- For beginners, use MPY Blockly to get started quickly. Even without any programming or hardware foundation. Kids and teens can also start learning programming with MPY Blockly.
-- For programmers who are inexperienced in hardware, MPY Blockly can quickly drive a series of common hardware modules such as microcontrollers, various sensors, various motors, buttons, audio equipment, monochrome and color displays, RGB  strips, etc.
-- Even for professionals, MPY Blockly integrates various hardware drivers (all tested in detail) and various Internet communication protocols, which can greatly reduce the development workload.
+
 
 ----
-# Blocks catagory
 
-### MicroPython
 
-|&nbsp;|&nbsp;|&nbsp;|&nbsp;|&nbsp;|&nbsp;|&nbsp;|&nbsp;|&nbsp;|&nbsp;|
+## Blocks catagory
+
+- MicroPython
+
+|Control|Text|Math|Variables|Functions|List|Tuple|Dict|Set|Storage|
 |--|--|--|--|--|--|--|--|--|--|
-|<img src="./assets/icons/catControl.png">Control|<img src="./assets/icons/catText.png">Text|<img src="./assets/icons/catMath.png">Math|<img src="./assets/icons/catVar.png">Variables|<img src="./assets/icons/catFun.png">Functions|<img src="./assets/icons/catList.png">List|<img src="./assets/icons/catTuple.png">Tuple|<img src="./assets/icons/catDict.png">Dict|<img src="./assets/icons/catSet.png">Set|<img src="./assets/icons/catFileDb.png">Storage|
+|<img src="./assets/icons/catControl.png">|<img src="./assets/icons/catText.png">|<img src="./assets/icons/catMath.png">|<img src="./assets/icons/catVar.png">|<img src="./assets/icons/catFun.png">|<img src="./assets/icons/catList.png">|<img src="./assets/icons/catTuple.png">|<img src="./assets/icons/catDict.png">|<img src="./assets/icons/catSet.png">|<img src="./assets/icons/catFileDb.png">|
 
 - **ESP32**<br/><img src="./assets/icons/catMcu.png">System|<img src="./assets/icons/catCommunite.png">Bus|<img src="./assets/icons/catBLE.png">Bluetooth|<img src="./assets/icons/catUart.png">UART
 - **External Components**<br/><img src="./assets/icons/catDispTFT.png">TFT&MONO|<img src="./assets/icons/catSegment.png">Segment LED|<img src="./assets/icon/../icons/catDispBlackWhite.png">LCD|<img src="./assets/icons/catMatrix.png">LED Matrix|<img src="./assets/icons/catNeopixel.png">Neopixel|<img src="./assets/icons/catSensor.png">Sensors|<img src="./assets/icons/catActuator.png">Actuator|<img src="./assets/icons/catMusic.png">Buzzer|<img src="./assets/icons/catAudio.png">Audio,
