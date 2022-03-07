@@ -85,13 +85,13 @@ MPY Blockly also supports standard  'text' programming for those who prefer to u
 
 
 # Supported Hardwares
-    |UDA1334A board pin|Pyboard V1.1 pin|Pyboard D pin|ESP32 pin|Pico Pin|Teensy 4.1 pin|
-    |--|--|--|--|--|--|
-    |3V0|3V3|3V3|3V3|3V3|3.3V|
-    |GND|GND|GND|GND|GND|GND|
-    |BCLK|Y6|Y6|32|16|4|
-    |WSEL|Y5|Y5|25|17|3|
-    |DIN|Y8|Y8|33|18|2|
+|UDA1334A board pin|Pyboard V1.1 pin|Pyboard D pin|ESP32 pin|Pico Pin|Teensy 4.1 pin|
+|--|--|--|--|--|--|
+|3V0|3V3|3V3|3V3|3V3|3.3V|
+|GND|GND|GND|GND|GND|GND|
+|BCLK|Y6|Y6|32|16|4|
+|WSEL|Y5|Y5|25|17|3|
+|DIN|Y8|Y8|33|18|2|
 ## MCUs
 |esp32 devkitC 32d|esp32 devkitC 32u|esp32 devkitC Wrover|esp32 goouuuu|esp32 mini borad|esp32 nodemcu 32s|esp32 t8 psram|esp32 uno d1r32|
 |--|--|--|--|--|--|--|--|
