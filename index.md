@@ -132,6 +132,7 @@ MPY Blockly also supports standard  'text' programming for those who prefer to u
 |HC-SR04 Ultrasonic Distance|Vl53l0 ToF ranging|Vl53l1 ToF ranging|LIS3DH 3-Axis Motion|MPU6050 6-Axis Motion|MPU9250  9-Axis Motion |
 |--|--|--|--|--|--|
 |<img src="./assets/hardwares/hcsr04.png" width='150px'>|<img src="./assets/hardwares/vl53l0.jpg" width='150px'>|<img src="./assets/hardwares/vl53l1.jpg" width='150px'>|<img src="./assets/hardwares/lis3dh.jpg" width='150px'>|<img src="./assets/hardwares/mpu6050.jpg" width='150px'>|<img src="./assets/hardwares/mpu9250.jpg" width='150px'>|
+
 ### Sensors - Others
 
 |APDS9930 Light Proximity|MAX30102 Oximeter Heart-Rate|TCS3472 Color|HMC5883l 3-Axis  Compass|QMC5883 3-Axis Magnetic|
