@@ -121,3 +121,8 @@ MPY Blockly also supports standard  'text' programming for those who prefer to u
 |--|--|--|--|--|--|--|
 |<img src="./assets/hardwares/lcd1602.jpg" width='150px'>|<img src="./assets/hardwares/lcd2004.jpg" width='150px'>|<img src="./assets/hardwares/tm1367.jpg" width='150px'>|<img src="./assets/hardwares/mxa7219_led_matrix.jpg" width='150px'>|<img src="./assets/hardwares/ws2812_led_matrix.jpg" width='150px'>|<img src="./assets/hardwares/ws2812_led_ring.jpg" width='150px'>|<img src="./assets/hardwares/ws2812_led_strip.jpg" width='150px'>|
 
+### Sensors - Temperature
+
+|LCD 16x2|LCD 20x4|tm1367 segment led|mxa7219 led matrix|ws2812 led matrix|ws2812 led ring|ws2812 led strip|
+|--|--|--|--|--|--|--|
+|<img src="./assets/hardwares/lcd1602.jpg" width='150px'>|<img src="./assets/hardwares/lcd2004.jpg" width='150px'>|<img src="./assets/hardwares/tm1367.jpg" width='150px'>|<img src="./assets/hardwares/mxa7219_led_matrix.jpg" width='150px'>|<img src="./assets/hardwares/ws2812_led_matrix.jpg" width='150px'>|<img src="./assets/hardwares/ws2812_led_ring.jpg" width='150px'>|<img src="./assets/hardwares/ws2812_led_strip.jpg" width='150px'>|
