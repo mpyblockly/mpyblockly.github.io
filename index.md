@@ -78,21 +78,20 @@ MPY Blockly also supports standard  'text' programming for those who prefer to u
 
 ----
 # Blocks catagory
-- **MicroPython**<br/><img src="./assets/icons/catControl.png">Control,<img src="./assets/icons/catText.png">Text,<img src="./assets/icons/catMath.png">Math,<img src="./assets/icons/catVar.png">Variables,<img src="./assets/icons/catFun.png">Functions,<img src="./assets/icons/catList.png">List,<img src="./assets/icons/catTuple.png">Tuple,<img src="./assets/icons/catDict.png">Dict,<img src="./assets/icons/catSet.png">Set,<img src="./assets/icons/catFileDb.png">Storage
-- **ESP32**<br/><img src="./assets/icons/catMcu.png">System,<img src="./assets/icons/catCommunite.png">Bus,<img src="./assets/icons/catBLE.png">Bluetooth,<img src="./assets/icons/catUart.png">UART
-- **External Components**<br/><img src="./assets/icons/catDispTFT.png">TFT&MONO,<img src="./assets/icons/catSegment.png">Segment LED,<img src="./assets/icon/../icons/catDispBlackWhite.png">LCD,<img src="./assets/icons/catMatrix.png">LED Matrix,<img src="./assets/icons/catNeopixel.png">Neopixel,<img src="./assets/icons/catSensor.png">Sensors,<img src="./assets/icons/catActuator.png">Actuator,<img src="./assets/icons/catMusic.png">Buzzer,<img src="./assets/icons/catAudio.png">Audio,
-- **Network**<img src="./assets/icons/catNetwork.png">Network,<img src="./assets/icons/catIoT.png">IoT
+
+### MicroPython
+
+|&nbsp;|&nbsp;|&nbsp;|&nbsp;|&nbsp;|&nbsp;|&nbsp;|&nbsp;|&nbsp;|&nbsp;|
+|--|--|--|--|--|--|--|--|--|--|
+|<img src="./assets/icons/catControl.png">Control|<img src="./assets/icons/catText.png">Text|<img src="./assets/icons/catMath.png">Math|<img src="./assets/icons/catVar.png">Variables|<img src="./assets/icons/catFun.png">Functions|<img src="./assets/icons/catList.png">List|<img src="./assets/icons/catTuple.png">Tuple|<img src="./assets/icons/catDict.png">Dict|<img src="./assets/icons/catSet.png">Set|<img src="./assets/icons/catFileDb.png">Storage|
+
+- **ESP32**<br/><img src="./assets/icons/catMcu.png">System|<img src="./assets/icons/catCommunite.png">Bus|<img src="./assets/icons/catBLE.png">Bluetooth|<img src="./assets/icons/catUart.png">UART
+- **External Components**<br/><img src="./assets/icons/catDispTFT.png">TFT&MONO|<img src="./assets/icons/catSegment.png">Segment LED|<img src="./assets/icon/../icons/catDispBlackWhite.png">LCD|<img src="./assets/icons/catMatrix.png">LED Matrix|<img src="./assets/icons/catNeopixel.png">Neopixel|<img src="./assets/icons/catSensor.png">Sensors|<img src="./assets/icons/catActuator.png">Actuator|<img src="./assets/icons/catMusic.png">Buzzer|<img src="./assets/icons/catAudio.png">Audio,
+- **Network**<img src="./assets/icons/catNetwork.png">Network|<img src="./assets/icons/catIoT.png">IoT
 
 
 # Supported Hardwares
 
-|UDA1334A board pin|Pyboard V1.1 pin|Pyboard D pin|ESP32 pin|Pico Pin|Teensy 4.1 pin|
-|--|--|--|--|--|--|
-|3V0|3V3|3V3|3V3|3V3|3.3V|
-|GND|GND|GND|GND|GND|GND|
-|BCLK|Y6|Y6|32|16|4|
-|WSEL|Y5|Y5|25|17|3|
-|DIN|Y8|Y8|33|18|2|
 
 ## MCUs
 
