@@ -110,6 +110,7 @@ MPY Blockly also supports standard  'text' programming for those who prefer to u
 |<img src="./assets/hardwares/st7735_128x160_blue.jpg" width='150px'>|<img src="./assets/hardwares/st7735_128x160_red.jpg" width='150px'>|<img src="./assets/hardwares/st7735_128x128_red.jpg" width='150px'>|<img src="./assets/hardwares/st7735_80x160_blue.jpg" width='150px'>|<img src="./assets/hardwares/st7789_240x240.jpg" width='150px'>|<img src="./assets/hardwares/st7789_135x240.jpg" width='150px'>|<img src="./assets/hardwares/ili9341_240x320.jpg" width='150px'>|<img src="./assets/hardwares/ili9341_240x320_blue.jpg" width='150px'>|
 
 #### Display -Monochrome
+
 |ssd1306_128x64e|ssd1306_128x32|ssd1306_72x40|ssd1106_128x64|ssd1106_64x32|st7302_122x250|nokia5110_84x48|
 |--|--|--|--|--|--|--|
 |<img src="./assets/hardwares/ssd1306_128x64.jpg" width='150px'>|<img src="./assets/hardwares/ssd1306_128x32.jpg" width='150px'>|<img src="./assets/hardwares/ssd1306_72x40.jpg" width='150px'>|<img src="./assets/hardwares/ssd1106_128x64.jpg" width='150px'>|<img src="./assets/hardwares/ssd1106_64x32.jpg" width='150px'>|<img src="./assets/hardwares/st7302_122x250.jpg" width='150px'>|<img src="./assets/hardwares/nokia5110_84x48.jpg" width='150px'>|
