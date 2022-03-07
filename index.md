@@ -123,7 +123,7 @@ MPY Blockly also supports standard  'text' programming for those who prefer to u
 
 ### Sensors - Temperature
 
-|DHT11 Temp&Humi |DHT22 Temp&Humi|BMP280 Temp&Humi Pressure |BMP180 Temp&Humi Pressuree|sht3x High Accuracy Temp&Humi|ds18b20 Temp |MLX90614  Infrared Thermometer|
+|DHT11 Temp Humi |DHT22 Temp Humi|BMP280 Temp Humi Pressure |BMP180 Temp Humi Pressuree|sht3x High Accuracy Temp Humi|ds18b20 Temp |MLX90614  Infrared Thermometer|
 |--|--|--|--|--|--|--|
 |<img src="./assets/hardwares/dht11.png" width='150px'>|<img src="./assets/hardwares/dht22.jpg" width='150px'>|<img src="./assets/hardwares/bmp280.jpg" width='150px'>|<img src="./assets/hardwares/bmp180.jpg" width='150px'>|<img src="./assets/hardwares/sht3x.jpg" width='150px'>|<img src="./assets/hardwares/ds18b20.jpg" width='150px'>|<img src="./assets/hardwares/MLX90614.jpg" width='150px'>|
 
