@@ -97,7 +97,7 @@ MPY Blockly also supports standard  'text' programming for those who prefer to u
 ## Supported Hardwares
 
 
-### MCUs
+### MCU
 
 |esp32 devkitC 32d|esp32 devkitC 32u|esp32 devkitC Wrover|esp32 goouuuu|esp32 mini borad|esp32 nodemcu 32s|esp32 t8 psram|esp32 uno d1r32|
 |--|--|--|--|--|--|--|--|
@@ -109,8 +109,15 @@ MPY Blockly also supports standard  'text' programming for those who prefer to u
 |--|--|--|--|--|--|--|--|
 |<img src="./assets/hardwares/st7735_128x160_blue.jpg" width='150px'>|<img src="./assets/hardwares/st7735_128x160_red.jpg" width='150px'>|<img src="./assets/hardwares/st7735_128x128_red.jpg" width='150px'>|<img src="./assets/hardwares/st7735_80x160_blue.jpg" width='150px'>|<img src="./assets/hardwares/st7789_240x240.jpg" width='150px'>|<img src="./assets/hardwares/st7789_135x240.jpg" width='150px'>|<img src="./assets/hardwares/ili9341_240x320.jpg" width='150px'>|<img src="./assets/hardwares/ili9341_240x320_blue.jpg" width='150px'>|
 
-### Display -Monochrome
+### Display - Monochrome
 
 |ssd1306 128x64|ssd1306 128x32|ssd1306 72x40|ssd1106 128x64|ssd1106 64x32|st7302 122x250|nokia5110 84x48|
 |--|--|--|--|--|--|--|
 |<img src="./assets/hardwares/ssd1306_128x64.jpg" width='150px'>|<img src="./assets/hardwares/ssd1306_128x32.jpg" width='150px'>|<img src="./assets/hardwares/ssd1306_72x40.jpg" width='150px'>|<img src="./assets/hardwares/ssd1106_128x64.jpg" width='150px'>|<img src="./assets/hardwares/ssd1106_64x32.jpg" width='150px'>|<img src="./assets/hardwares/st7302_122x250.jpg" width='150px'>|<img src="./assets/hardwares/nokia5110_84x48.jpg" width='150px'>|
+
+### Display - Others
+
+|LCD 16x2|LCD 20x4|tm1367 segment led|mxa7219 led matrix|ws2812 led matrix|ws2812 led ring|ws2812 led strip|
+|--|--|--|--|--|--|--|
+|<img src="./assets/hardwares/lcd1602.jpg" width='150px'>|<img src="./assets/hardwares/lcd2004.jpg" width='150px'>|<img src="./assets/hardwares/tm1367.jpg" width='150px'>|<img src="./assets/hardwares/mxa7219_led_matrix.jpg" width='150px'>|<img src="./assets/hardwares/ws2812_led_matrix.jpg" width='150px'>|<img src="./assets/hardwares/ws2812_led_ring.jpg" width='150px'>|<img src="./assets/hardwares/ws2812_led_strip.jpg" width='150px'>|
+
