@@ -105,10 +105,13 @@ MPY Blockly also supports standard  'text' programming for those who prefer to u
 
 ### Display - TFT
 
-|st7735 128x160 blue|st7735 128x160 red|st7735 128x128 red|st7735 80x160 blue|st7789 240x240|st7789 135x240|ili9341 240x320 red|ili9341 240x320 blue|
-|--|--|--|--|--|--|--|--|
-|<img src="./assets/hardwares/st7735_128x160_blue.jpg" width='150px'>|<img src="./assets/hardwares/st7735_128x160_red.jpg" width='150px'>|<img src="./assets/hardwares/st7735_128x128_red.jpg" width='150px'>|<img src="./assets/hardwares/st7735_80x160_blue.jpg" width='150px'>|<img src="./assets/hardwares/st7789_240x240.jpg" width='150px'>|<img src="./assets/hardwares/st7789_135x240.jpg" width='150px'>|<img src="./assets/hardwares/ili9341_240x320.jpg" width='150px'>|<img src="./assets/hardwares/ili9341_240x320_blue.jpg" width='150px'>|
+|st7735 128x160 blue|st7735 128x160 red|st7735 128x128 red|st7735 80x160 blue|st7789 240x240|st7789 135x240|
+|--|--|--|--|--|--|
+|<img src="./assets/hardwares/st7735_128x160_blue.jpg" width='150px'>|<img src="./assets/hardwares/st7735_128x160_red.jpg" width='150px'>|<img src="./assets/hardwares/st7735_128x128_red.jpg" width='150px'>|<img src="./assets/hardwares/st7735_80x160_blue.jpg" width='150px'>|<img src="./assets/hardwares/st7789_240x240.jpg" width='150px'>|<img src="./assets/hardwares/st7789_135x240.jpg" width='150px'>|
 
+|ssd1351 128x128|ssd1351 128x96|ssd1331 96x64|ili9341 240x320 red|ili9341 240x320 blue|
+|--|--|--|--|--|
+|<img src="./assets/hardwares/ssd1351_128x128.jpg" width='150px'>|<img src="./assets/hardwares/ssd1351_128x96.jpg" width='150px'>|<img src="./assets/hardwares/ssd1331_96x64.jpg" width='150px'>|<img src="./assets/hardwares/ili9341_240x320.jpg" width='150px'>|<img src="./assets/hardwares/ili9341_240x320_blue.jpg" width='150px'>|
 ### Display - Monochrome
 
 |ssd1306 128x64|ssd1306 128x32|ssd1306 72x40|ssd1106 128x64|ssd1106 64x32|st7302 122x250|nokia5110 84x48|
