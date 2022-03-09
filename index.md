@@ -109,8 +109,8 @@ MPY Blockly also supports standard  'text' programming for those who prefer to u
 |--|--|--|--|--|--|
 |<img src="./assets/hardwares/st7735_128x160_blue.jpg" width='150px'>|<img src="./assets/hardwares/st7735_128x160_red.jpg" width='150px'>|<img src="./assets/hardwares/st7735_128x128_red.jpg" width='150px'>|<img src="./assets/hardwares/st7735_80x160_blue.jpg" width='150px'>|<img src="./assets/hardwares/st7789_240x240.jpg" width='150px'>|<img src="./assets/hardwares/st7789_135x240.jpg" width='150px'>|
 
-|ssd1351 128x128|ssd1351 128x96|ssd1331 96x64|ili9341 240x320 red|ili9341 240x320 blue|
-|--|--|--|--|--|
+|ssd1351 128x128|ssd1351 128x96|ssd1331 96x64|ili9341 240x320 red|ili9341 240x320 blue|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|
+|--|--|--|--|--|--|
 |<img src="./assets/hardwares/ssd1351_128x128.jpg" width='150px'>|<img src="./assets/hardwares/ssd1351_128x96.jpg" width='150px'>|<img src="./assets/hardwares/ssd1331_96x64.jpg" width='150px'>|<img src="./assets/hardwares/ili9341_240x320.jpg" width='150px'>|<img src="./assets/hardwares/ili9341_240x320_blue.jpg" width='150px'>|
 
 ### Display - Monochrome
