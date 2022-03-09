@@ -142,4 +142,8 @@ MPY Blockly also supports standard  'text' programming for those who prefer to u
 |--|--|--|--|--|
 |<img src="./assets/hardwares/apds9930.jpg" width='150px'>|<img src="./assets/hardwares/max30102.jpg" width='150px'>|<img src="./assets/hardwares/tcs3472.jpg" width='150px'>|<img src="./assets/hardwares/hmc5883l.jpg" width='150px'>|<img src="./assets/hardwares/qmc5883.jpg" width='150px'>|
 
-### Actuator - Input
+### Input - Button, Touch button, Joystick
+
+|Button|Five buttons|joystick model 1|Joystick model 2|Touch button 1|Touch button 4|IR Remote|
+|--|--|--|--|--|--|--|
+|<img src="./assets/hardwares/button_1.jpg" width='150px'>|<img src="./assets/hardwares/button_5.jpg" width='150px'>|<img src="./assets/hardwares/joystick_1.jpg" width='150px'>|<img src="./assets/hardwares/joystick_2.jpg" width='150px'>|<img src="./assets/hardwares/ttp_1.jpg" width='150px'>|<img src="./assets/hardwares/ttp_4.jpg" width='150px'>|<img src="./assets/hardwares/ir_remote.jpg" width='150px'>|
