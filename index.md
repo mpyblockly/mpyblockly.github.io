@@ -155,3 +155,10 @@ MPY Blockly also supports standard  'text' programming for those who prefer to u
 |L298N Motor Drive Controller|L9110S Motor Drive Controller|L9110S-4 Motor Drive Controller|Stepper ULN2003 Driver|SG90 Servo 180|SG90 Servo 360|MG90 Servo 180/360
 |--|--|--|--|--|--|--|
 |<img src="./assets/hardwares/motor_l298n.jpg" width='150px'>|<img src="./assets/hardwares/motor_l9110s.jpg" width='150px'>|<img src="./assets/hardwares/motor_l9110s_4.jpg" width='150px'>|<img src="./assets/hardwares/stepper_uln2003.jpg" width='150px'>|<img src="./assets/hardwares/sg90-180.jpg" width='150px'>|<img src="./assets/hardwares/sg90-360.jpg" width='150px'>|<img src="./assets/hardwares/mg90-360.jpg" width='150px'>|
+
+### RTC, DAC, RFID and Relay
+
+|RTC DS3231|RTC DS1307|RTC DS1302|DAC MCP4725|RFID MFRC522|Relay 1-channel|Relay 2-channel|
+|--|--|--|--|--|--|--|
+|<img src="./assets/hardwares/ds3231.jpg" width='150px'>|<img src="./assets/hardwares/ds1307.jpg" width='150px'>|<img src="./assets/hardwares/ds1302.jpg" width='150px'>|<img src="./assets/hardwares/mcp4725.png" width='150px'>|<img src="./assets/hardwares/mfrc522.jpg" width='150px'>|<img src="./assets/hardwares/1-channel-5v-relay.jpg" width='150px'>|<img src="./assets/hardwares/2-Channel-5V-Relay.jpg" width='150px'>|
+
