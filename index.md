@@ -162,3 +162,13 @@ MPY Blockly also supports standard  'text' programming for those who prefer to u
 |--|--|--|--|--|--|--|
 |<img src="./assets/hardwares/ds3231.jpg" width='150px'>|<img src="./assets/hardwares/ds1307.jpg" width='150px'>|<img src="./assets/hardwares/ds1302.jpg" width='150px'>|<img src="./assets/hardwares/mcp4725.png" width='150px'>|<img src="./assets/hardwares/mfrc522.jpg" width='150px'>|<img src="./assets/hardwares/1-channel-5v-relay.jpg" width='150px'>|<img src="./assets/hardwares/2-Channel-5V-Relay.jpg" width='150px'>|
 
+
+### Common Sensors
+
+|IR detector|photorezistor|Optical barrier|microphone|RCWL-0516|PIR SB00422A-1|PIR HC-SR505|
+|--|--|--|--|--|--|--|
+|<img src="./assets/hardwares/IR_detector_sensor.jpg" width='150px'>|<img src="./assets/hardwares/photorezistor_module.jpg" width='150px'>|<img src="./assets/hardwares/Optical_barrier_module.jpg" width='150px'>|<img src="./assets/hardwares/microphone.jpg" width='150px'>|<img src="./assets/hardwares/Motion_detector_Microwave_Doppler_radar_RCWL-0516.jpg" width='150px'>|<img src="./assets/hardwares/PIR_modul_SB00422A-1.jpg" width='150px'>|<img src="./assets/hardwares/PIR_module_HC-SR505.jpg" width='150px'>|
+
+|PIR 312|Infrared flame|Hall probe|Current sensor|TCRT5000 IRtracing|SW-1801P shock|Light sensor|
+|--|--|--|--|--|--|--|
+|<img src="./assets/hardwares/PIR_modul_PIR_module_312.jpg" width='150px'>|<img src="./assets/hardwares/Infrared_flame_sensor.jpg" width='150px'>|<img src="./assets/hardwares/Hall_probe_module.jpg" width='150px'>|<img src="./assets/hardwares/30A_current_sensor.jpg" width='150px'>|<img src="./assets/hardwares/Module_with_TCRT5000_IR_tracing_sensor.jpg" width='150px'>|<img src="./assets/hardwares/Module_with_SW-1801P_shock_sensor.jpg" width='150px'>|<img src="./assets/hardwares/Light_sensor_module.jpg" width='150px'>|
