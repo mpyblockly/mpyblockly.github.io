@@ -100,7 +100,6 @@ MPY Blockly also supports standard  'text' programming for those who prefer to u
 ### MCU
 
 <table>
-  <thead>
     <tr>
       <th>esp32 devkitC 32d</th>
       <th>esp32 devkitC 32u</th>
@@ -111,7 +110,6 @@ MPY Blockly also supports standard  'text' programming for those who prefer to u
       <th>esp32 t8 psram</th>
       <th>esp32 uno d1r32</th>
     </tr>
-  </thead>
   <tbody>
     <tr>
       <td width='12.5%'><img src="./assets/hardwares/esp32_devkitC_wroom_32d.jpg" width="150px" /></td>
