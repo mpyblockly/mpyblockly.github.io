@@ -46,7 +46,7 @@ MPY Blockly also supports standard  'text' programming for those who prefer to u
 - Even for professionals, MPY Blockly integrates various hardware drivers (all tested in detail) and various Internet communication protocols, which can greatly reduce the development workload.
 
 ----
-# Features
+# Key features
 
 <div class="divTable" style="width: 100%;" >
 <div class="divTableBody">
@@ -100,6 +100,135 @@ MPY Blockly also supports standard  'text' programming for those who prefer to u
 - **External Components**<br/><img src="./assets/icons/catDispTFT.png">TFT&MONO|<img src="./assets/icons/catSegment.png">Segment LED|<img src="./assets/icon/../icons/catDispBlackWhite.png">LCD|<img src="./assets/icons/catMatrix.png">LED Matrix|<img src="./assets/icons/catNeopixel.png">Neopixel|<img src="./assets/icons/catSensor.png">Sensors|<img src="./assets/icons/catActuator.png">Actuator|<img src="./assets/icons/catMusic.png">Buzzer|<img src="./assets/icons/catAudio.png">Audio,
 - **Network**<img src="./assets/icons/catNetwork.png">Network|<img src="./assets/icons/catIoT.png">IoT -->
 
+## Features Datail
+
+<table>
+    <tr class='tableHead'>
+      <td width="10%">Category</td>
+      <td width="10%">Icon</td>
+      <td width="80%">Description</td>
+    </tr>
+    <tr>
+		  <td>MCU</td>
+      <td><img src="./assets/icons/mcu.png" width="55px" /></td>
+      <td></td>
+    </tr>
+    <tr>
+		  <td>Control</td>
+      <td><img src="./assets/icons/control.png" width="55px" /></td>
+      <td></td>
+    </tr>
+    <tr>
+		  <td>Text</td>
+      <td><img src="./assets/icons/text.png" width="55px" /></td>
+      <td></td>
+    </tr>
+    <tr>
+		  <td>Math</td>
+      <td><img src="./assets/icons/math.png" width="55px" /></td>
+      <td></td>
+    </tr>
+    <tr>
+		  <td>Variables</td>
+      <td><img src="./assets/icons/var.png" width="55px" /></td>
+      <td></td>
+    </tr>
+    <tr>
+		  <td>Functions</td>
+      <td><img src="./assets/icons/function.png" width="55px" /></td>
+      <td></td>
+    </tr>
+    <tr>
+		  <td>Network</td>
+      <td><img src="./assets/icons/network.png" width="55px" /></td>
+      <td></td>
+    </tr>
+    <tr>
+		  <td>Storage</td>
+      <td><img src="./assets/icons/storage.png" width="55px" /></td>
+      <td></td>
+    </tr>
+    <tr>
+		  <td>List</td>
+      <td><img src="./assets/icons/list.png" width="55px" /></td>
+      <td></td>
+    </tr>
+    <tr>
+		  <td>Tuple</td>
+      <td><img src="./assets/icons/tuple.png" width="55px" /></td>
+      <td></td>
+    </tr>
+    <tr>
+		  <td>Set</td>
+      <td><img src="./assets/icons/set.png" width="55px" /></td>
+      <td></td>
+    </tr>
+    <tr>
+		  <td>TFT&Mono</td>
+      <td><img src="./assets/icons/tft.png" width="55px" /></td>
+      <td></td>
+    </tr>
+    <tr>
+		  <td>7SegLed</td>
+      <td><img src="./assets/icons/segment.png" width="55px" /></td>
+      <td></td>
+    </tr>
+    <tr>
+		  <td>LCD</td>
+      <td><img src="./assets/icons/lcd.png" width="55px" /></td>
+      <td></td>
+    </tr>
+    <tr>
+		  <td>LED Matrix</td>
+      <td><img src="./assets/icons/matrix.png" width="55px" /></td>
+      <td></td>
+    </tr>
+    <tr>
+		  <td>Neopixel</td>
+      <td><img src="./assets/icons/neopixel.png" width="55px" /></td>
+      <td></td>
+    </tr>
+    <tr>
+		  <td>Sensors</td>
+      <td><img src="./assets/icons/sensors.png" width="55px" /></td>
+      <td></td>
+    </tr>
+    <tr>
+		  <td>Actuator</td>
+      <td><img src="./assets/icons/actuator.png" width="55px" /></td>
+      <td></td>
+    </tr>
+    <tr>
+		  <td>Buzzer</td>
+      <td><img src="./assets/icons/buzzer.png" width="55px" /></td>
+      <td></td>
+    </tr>
+    <tr>
+		  <td>Audio</td>
+      <td><img src="./assets/icons/audio.png" width="55px" /></td>
+      <td></td>
+    </tr>
+        <tr>
+		  <td>Bus</td>
+      <td><img src="./assets/icons/bus.png" width="55px" /></td>
+      <td></td>
+    </tr>
+		  <tr>
+		  <td>Bluetooth</td>
+      <td><img src="./assets/icons/ble.png" width="55px" /></td>
+      <td></td>
+    </tr>
+		  <tr>
+		  <td>UART</td>
+      <td><img src="./assets/icons/uart.png" width="55px" /></td>
+      <td></td>
+    </tr>
+	    <tr>
+		  <td>IoT</td>
+      <td><img src="./assets/icons/iot.png" width="55px" /></td>
+      <td></td>
+    </tr>
+</table>
 
 ## Built-in supported Hardwares
 
@@ -108,13 +237,13 @@ MPY Blockly also supports standard  'text' programming for those who prefer to u
 
 <table>
     <tr class='tableHead'>
-      <td>esp32 devkitC 32d</td>
-      <td>esp32 devkitC 32u</td>
-      <td>esp32 devkitC Wrover</td>
-      <td>esp32 goouuuu</td>
-      <td>esp32 mini borad</td>
-      <td>esp32 nodemcu 32s</td>
-		  <td>esp32 t8 psram</td>
+      <td>ESP32 devkitC 32d</td>
+      <td>ESP32 devkitC 32u</td>
+      <td>ESP32 devkitC Wrover</td>
+      <td>ESP32 goouuuu</td>
+      <td>ESP32 mini borad</td>
+      <td>ESP32 nodemcu 32s</td>
+		  <td>ESP32 t8 psram</td>
     </tr>
 		<tr>
       <td width="14.3%"><img src="./assets/hardwares/esp32_devkitC_wroom_32d.jpg" width="150px" /></td>
@@ -126,7 +255,7 @@ MPY Blockly also supports standard  'text' programming for those who prefer to u
 		  <td width="14.3%"><img src="./assets/hardwares/esp32_t8_psram.jpg" width="150px" /></td>
     </tr>
     <tr class='tableHead'>
-      <td>esp32 uno d1r32</td>
+      <td>ESP32 uno d1r32</td>
 			<td>FireBeetle ESP32</td>
 			<td></td>
 			<td></td>
@@ -149,13 +278,13 @@ MPY Blockly also supports standard  'text' programming for those who prefer to u
 
 <table>
     <tr class='tableHead'>
-      <td width="14.3%">st7735 128x160 blue</td>
-      <td width="14.3%">st7735 128x160 red</td>
-      <td width="14.3%">st7735 128x128 red</td>
-      <td width="14.3%">st7735 80x160 blue</td>
-      <td width="14.3%">st7789 240x240</td>
-      <td width="14.3%">st7789 135x240</td>
-      <td width="14.3%">ssd1351 128x128</td>
+      <td width="14.3%">ST7735 128x160 blue</td>
+      <td width="14.3%">ST7735 128x160 red</td>
+      <td width="14.3%">ST7735 128x128 red</td>
+      <td width="14.3%">ST7735 80x160 blue</td>
+      <td width="14.3%">ST7789 240x240</td>
+      <td width="14.3%">ST7789 135x240</td>
+      <td width="14.3%">SSD1351 128x128</td>
    </tr>
     <tr>
       <td><img src="./assets/hardwares/st7735_128x160_blue.jpg" width="150px" /></td>
@@ -169,10 +298,10 @@ MPY Blockly also supports standard  'text' programming for those who prefer to u
 </table>
 <table>
     <tr class='tableHead'>
-      <td width="14.3%">ssd1351 128x96</td>
-      <td width="14.3%">ssd1331 96x64</td>
-      <td width="14.3%">ili9341 240x320 red</td>
-      <td width="14.3%">ili9341 240x320 blue</td>
+      <td width="14.3%">SSD1351 128x96</td>
+      <td width="14.3%">SSD1331 96x64</td>
+      <td width="14.3%">ILI9341 240x320 red</td>
+      <td width="14.3%">ILI9341 240x320 blue</td>
       <td width="14.3%">                 </td>
       <td width="14.3%">                 </td>
       <td width="14.3%">                 </td>
@@ -216,11 +345,11 @@ MPY Blockly also supports standard  'text' programming for those who prefer to u
     <tr class='tableHead'>
       <td width="14.3%">LCD 16x2</td>
       <td width="14.3%">LCD 20x4</td>
-      <td width="14.3%">tm1367 segment led</td>
-      <td width="14.3%">mxa7219 led matrix</td>
-      <td width="14.3%">ws2812 led matrix</td>
-      <td width="14.3%">ws2812 led ring</td>
-      <td width="14.3%">ws2812 led strip</td>
+      <td width="14.3%">TM1367 segment led</td>
+      <td width="14.3%">MAX7219 led matrix</td>
+      <td width="14.3%">WS2812 led matrix</td>
+      <td width="14.3%">WS2812 led ring</td>
+      <td width="14.3%">WS2812 led strip</td>
     </tr>
     <tr>
       <td><img src="./assets/hardwares/lcd1602.jpg" width="150px" /></td>
@@ -240,8 +369,8 @@ MPY Blockly also supports standard  'text' programming for those who prefer to u
       <td width="14.3%">DHT22 Temp Humi</td>
       <td width="14.3%">BMP280 Temp Humi Pressure</td>
       <td width="14.3%">BMP180 Temp Humi Pressuree</td>
-      <td width="14.3%">sht3x High Accuracy Temp Humi</td>
-      <td width="14.3%">ds18b20 Temp</td>
+      <td width="14.3%">SHT3x High Accuracy Temp Humi</td>
+      <td width="14.3%">DS18B20 Temp</td>
       <td width="14.3%">MLX90614  Infrared Thermometer</td>
     </tr>
     <tr>
@@ -259,8 +388,8 @@ MPY Blockly also supports standard  'text' programming for those who prefer to u
 <table>
     <tr class='tableHead'>
       <td width="14.3%">HC-SR04 Ultrasonic Distance</td>
-      <td width="14.3%">Vl53l0 ToF ranging</td>
-      <td width="14.3%">Vl53l1 ToF ranging</td>
+      <td width="14.3%">VL53l0 ToF ranging</td>
+      <td width="14.3%">VL53l1 ToF ranging</td>
       <td width="14.3%">LIS3DH 3-Axis Motion</td>
       <td width="14.3%">MPU6050 6-Axis Motion</td>
       <td width="14.3%">MPU9250  9-Axis Motion</td>
@@ -305,7 +434,7 @@ MPY Blockly also supports standard  'text' programming for those who prefer to u
     <tr class='tableHead'>
       <td width="14.3%">Button</td>
       <td width="14.3%">Five buttons</td>
-      <td width="14.3%">joystick model 1</td>
+      <td width="14.3%">Joystick model 1</td>
       <td width="14.3%">Joystick model 2</td>
       <td width="14.3%">Touch button 1</td>
       <td width="14.3%">Touch button 4</td>
@@ -368,9 +497,9 @@ MPY Blockly also supports standard  'text' programming for those who prefer to u
 <table>
     <tr class='tableHead'>
       <td width="14.3%">IR detector</td>
-      <td width="14.3%">photorezistor</td>
+      <td width="14.3%">Photorezistor</td>
       <td width="14.3%">Optical barrier</td>
-      <td width="14.3%">microphone</td>
+      <td width="14.3%">Microphone</td>
       <td width="14.3%">RCWL-0516</td>
       <td width="14.3%">PIR SB00422A-1</td>
       <td width="14.3%">PIR HC-SR505</td>
