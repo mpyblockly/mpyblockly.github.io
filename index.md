@@ -104,7 +104,7 @@ MPY Blockly also supports standard  'text' programming for those who prefer to u
 ## Built-in supported Hardwares
 
 
-<h3 id="mcu">MCU</h3>
+<h3 id="mcu1">MCU</h3>
 
 <table>
     <tr class='tableHead'>
