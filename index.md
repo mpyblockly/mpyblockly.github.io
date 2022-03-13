@@ -187,7 +187,7 @@ MPY Blockly also supports standard  'text' programming for those who prefer to u
       <td>MAX7219 LED Matrix</td>
     </tr>
     <tr>
-		  <t class='category'd>Neopixel</td>
+		  <td class='category'>Neopixel</td>
       <td><img src="./assets/icons/neopixel.png" width="55px" /></td>
       <td>Neopixel RGB LEDs</td>
     </tr>
@@ -229,7 +229,7 @@ MPY Blockly also supports standard  'text' programming for those who prefer to u
 	    <tr>
 		  <td class='category'>IoT</td>
       <td><img src="./assets/icons/iot.png" width="55px" /></td>
-      <td>IoT functions include MQTT, Blynk and OMA Weather.</td>
+      <td>IoT functions include MQTT, Blynk and OMA Weather services.</td>
     </tr>
 </table>
 
