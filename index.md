@@ -91,25 +91,13 @@ MPY Blockly also supports standard  'text' programming for those who prefer to u
 ----
 
 
-<!-- ## Blocks catagory
-
-- MicroPython
-
-| Control                                   | Text                                   | Math                                   | Variables                             | Functions                             | List                                   | Tuple                                   | Dict                                   | Set                                   | Storage                                  |
-| ----------------------------------------- | -------------------------------------- | -------------------------------------- | ------------------------------------- | ------------------------------------- | -------------------------------------- | --------------------------------------- | -------------------------------------- | ------------------------------------- | ---------------------------------------- |
-| <img src="./assets/icons/catControl.png"> | <img src="./assets/icons/catText.png"> | <img src="./assets/icons/catMath.png"> | <img src="./assets/icons/catVar.png"> | <img src="./assets/icons/catFun.png"> | <img src="./assets/icons/catList.png"> | <img src="./assets/icons/catTuple.png"> | <img src="./assets/icons/catDict.png"> | <img src="./assets/icons/catSet.png"> | <img src="./assets/icons/catFileDb.png"> |
-
-- **ESP32**<br/><img src="./assets/icons/catMcu.png">System|<img src="./assets/icons/catCommunite.png">Bus|<img src="./assets/icons/catBLE.png">Bluetooth|<img src="./assets/icons/catUart.png">UART
-- **External Components**<br/><img src="./assets/icons/catDispTFT.png">TFT&MONO|<img src="./assets/icons/catSegment.png">Segment LED|<img src="./assets/icon/../icons/catDispBlackWhite.png">LCD|<img src="./assets/icons/catMatrix.png">LED Matrix|<img src="./assets/icons/catNeopixel.png">Neopixel|<img src="./assets/icons/catSensor.png">Sensors|<img src="./assets/icons/catActuator.png">Actuator|<img src="./assets/icons/catMusic.png">Buzzer|<img src="./assets/icons/catAudio.png">Audio,
-- **Network**<img src="./assets/icons/catNetwork.png">Network|<img src="./assets/icons/catIoT.png">IoT -->
-
 ## Features Datail
 
 <table>
     <tr class='tableHead'>
       <td width="10%">Category</td>
       <td width="10%">Icon</td>
-      <td width="80%">Description</td>
+      <td width="80%">Details</td>
     </tr>
     <tr>
 		  <td class='category'>MCU</td>
@@ -214,7 +202,7 @@ MPY Blockly also supports standard  'text' programming for those who prefer to u
       <tr>
 		  <td class='category'>Bus</td>
       <td><img src="./assets/icons/bus.png" width="55px" /></td>
-      <td>ESP32 I2C and SPI Bus</td>
+      <td>ESP32 I2C, I2S and SPI Bus</td>
     </tr>
 		  <tr>
 		  <td class='category'>Bluetooth</td>
