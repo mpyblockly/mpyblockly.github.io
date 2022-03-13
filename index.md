@@ -104,7 +104,7 @@ MPY Blockly also supports standard  'text' programming for those who prefer to u
 ## Built-in supported Hardwares
 
 
-### MCU
+<h3 id="mcu">MCU</h3>
 
 <table>
     <tr class='tableHead'>
@@ -146,6 +146,7 @@ MPY Blockly also supports standard  'text' programming for those who prefer to u
 </table>
 
 <h3 id="display---tft">Display - TFT</h3>
+
 <table>
     <tr class='tableHead'>
       <td width="14.3%">st7735 128x160 blue</td>
@@ -188,6 +189,7 @@ MPY Blockly also supports standard  'text' programming for those who prefer to u
 </table>
 
 <h3 id="display---monochrome">Display - Monochrome</h3>
+
 <table>
     <tr class='tableHead'>
       <td width="14.3%">ssd1306 128x64</td>
