@@ -99,6 +99,33 @@ MPY Blockly also supports standard  'text' programming for those who prefer to u
 
 ### MCU
 
+<table>
+  <thead>
+    <tr>
+      <th>esp32 devkitC 32d</th>
+      <th>esp32 devkitC 32u</th>
+      <th>esp32 devkitC Wrover</th>
+      <th>esp32 goouuuu</th>
+      <th>esp32 mini borad</th>
+      <th>esp32 nodemcu 32s</th>
+      <th>esp32 t8 psram</th>
+      <th>esp32 uno d1r32</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td width='12.5%'><img src="./assets/hardwares/esp32_devkitC_wroom_32d.jpg" width="150px" /></td>
+      <td width='12.5%'><img src="./assets/hardwares/esp32_devkitC_wroom_32u.jpg" width="150px" /></td>
+      <td width='12.5%'><img src="./assets/hardwares/esp32_devkitC_wrover.jpg" width="150px" /></td>
+      <td width='12.5%'><img src="./assets/hardwares/esp32_goouuuu.jpg" width="150px" /></td>
+      <td width='12.5%'><img src="./assets/hardwares/esp32_mini_borad.jpg" width="150px" /></td>
+      <td width='12.5%'><img src="./assets/hardwares/esp32_nodemcu_32s.jpg" width="150px" /></td>
+      <td width='12.5%'><img src="./assets/hardwares/esp32_t8_psram.jpg" width="150px" /></td>
+      <td width='12.5%'><img src="./assets/hardwares/esp32_uno_d1_r32.jpg" width="150px" /></td>
+    </tr>
+  </tbody>
+</table>
+
 |esp32 devkitC 32d|esp32 devkitC 32u|esp32 devkitC Wrover|esp32 goouuuu|esp32 mini borad|esp32 nodemcu 32s|esp32 t8 psram|esp32 uno d1r32|
 |--|--|--|--|--|--|--|--|
 |<img src="./assets/hardwares/esp32_devkitC_wroom_32d.jpg" width='150px'>|<img src="./assets/hardwares/esp32_devkitC_wroom_32u.jpg" width='150px'>|<img src="./assets/hardwares/esp32_devkitC_wrover.jpg" width='150px'>|<img src="./assets/hardwares/esp32_goouuuu.jpg" width='150px'>|<img src="./assets/hardwares/esp32_mini_borad.jpg" width='150px'>|<img src="./assets/hardwares/esp32_nodemcu_32s.jpg" width='150px'>|<img src="./assets/hardwares/esp32_t8_psram.jpg" width='150px'>|<img src="./assets/hardwares/esp32_uno_d1_r32.jpg" width='150px'>|
