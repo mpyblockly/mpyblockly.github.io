@@ -321,7 +321,7 @@ MPY Blockly also supports standard  'text' programming for those who prefer to u
 </table>
 <h3 id="motor-servo-and-stepper">Motor, Servo and Stepper</h3>
 <table>
-    <tr>
+    <tr class='tableHead'>
       <td width="14.3%">L298N Motor Drive Controller</td>
       <td width="14.3%">L9110S Motor Drive Controller</td>
       <td width="14.3%">L9110S-4 Motor Drive Controller</td>
