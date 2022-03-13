@@ -16,6 +16,13 @@
   width:50%;
 }
 
+.tableHead{
+	font-size: 13px;
+	font-weight: 800;
+	background-color: #7b8184;
+	color: #fff;
+}
+
 </style>
 
 # What is MPY Blockly?
@@ -100,7 +107,7 @@ MPY Blockly also supports standard  'text' programming for those who prefer to u
 ### MCU
 
 <table>
-    <tr>
+    <tr class='tableHead'>
       <td>esp32 devkitC 32d</td>
       <td>esp32 devkitC 32u</td>
       <td>esp32 devkitC Wrover</td>
@@ -118,7 +125,7 @@ MPY Blockly also supports standard  'text' programming for those who prefer to u
       <td width='12.5%'><img src="./assets/hardwares/esp32_nodemcu_32s.jpg" width="150px" /></td>
 		  <td width='12.5%'><img src="./assets/hardwares/esp32_t8_psram.jpg" width="150px" /></td>
     </tr>
-		<tr>
+    <tr class='tableHead'>
 		  <td>esp32 t8 psram</td>
 			<td></td>
 			<td></td>
@@ -140,7 +147,7 @@ MPY Blockly also supports standard  'text' programming for those who prefer to u
 
 <h3 id="display---tft">Display - TFT</h3>
 <table>
-    <tr>
+    <tr class='tableHead'>
       <td width="14.3%">st7735 128x160 blue</td>
       <td width="14.3%">st7735 128x160 red</td>
       <td width="14.3%">st7735 128x128 red</td>
@@ -160,7 +167,7 @@ MPY Blockly also supports standard  'text' programming for those who prefer to u
     </tr>
 </table>
 <table>
-    <tr>
+    <tr class='tableHead'>
       <td width="14.3%">ssd1351 128x96</td>
       <td width="14.3%">ssd1331 96x64</td>
       <td width="14.3%">ili9341 240x320 red</td>
@@ -182,7 +189,7 @@ MPY Blockly also supports standard  'text' programming for those who prefer to u
 
 <h3 id="display---monochrome">Display - Monochrome</h3>
 <table>
-    <tr>
+    <tr class='tableHead'>
       <td width="14.3%">ssd1306 128x64</td>
       <td width="14.3%">ssd1306 128x32</td>
       <td width="14.3%">ssd1306 72x40</td>
@@ -204,7 +211,7 @@ MPY Blockly also supports standard  'text' programming for those who prefer to u
 
 <h3 id="display---others">Display - Others</h3>
 <table>
-    <tr>
+    <tr class='tableHead'>
       <td width="14.3%">LCD 16x2</td>
       <td width="14.3%">LCD 20x4</td>
       <td width="14.3%">tm1367 segment led</td>
@@ -226,7 +233,7 @@ MPY Blockly also supports standard  'text' programming for those who prefer to u
 
 <h3 id="sensors---temperature">Sensors - Temperature</h3>
 <table>
-    <tr>
+    <tr class='tableHead'>
       <td width="14.3%">DHT11 Temp Humi</td>
       <td width="14.3%">DHT22 Temp Humi</td>
       <td width="14.3%">BMP280 Temp Humi Pressure</td>
@@ -248,7 +255,7 @@ MPY Blockly also supports standard  'text' programming for those who prefer to u
 
 <h3 id="sensors---distanceacceleromtermotion">Sensors - Distance&amp;Acceleromter&amp;Motion</h3>
 <table>
-    <tr>
+    <tr class='tableHead'>
       <td width="14.3%">HC-SR04 Ultrasonic Distance</td>
       <td width="14.3%">Vl53l0 ToF ranging</td>
       <td width="14.3%">Vl53l1 ToF ranging</td>
@@ -270,7 +277,7 @@ MPY Blockly also supports standard  'text' programming for those who prefer to u
 
 <h3 id="sensors---others">Sensors - Others</h3>
 <table>
-    <tr>
+    <tr class='tableHead'>
       <td width="14.3%">APDS9930 Light Proximity</td>
       <td width="14.3%">MAX30102 Oximeter Heart-Rate</td>
       <td width="14.3%">TCS3472 Color</td>
@@ -293,7 +300,7 @@ MPY Blockly also supports standard  'text' programming for those who prefer to u
 
 <h3 id="input---button-touch-button-joystick">Input - Button, Touch button, Joystick</h3>
 <table>
-    <tr>
+    <tr class='tableHead'>
       <td width="14.3%">Button</td>
       <td width="14.3%">Five buttons</td>
       <td width="14.3%">joystick model 1</td>
@@ -335,7 +342,7 @@ MPY Blockly also supports standard  'text' programming for those who prefer to u
 </table>
 <h3 id="rtc-dac-rfid-and-relay">RTC, DAC, RFID and Relay</h3>
 <table>
-    <tr>
+    <tr class='tableHead'>
       <td width="14.3%">RTC DS3231</td>
       <td width="14.3%">RTC DS1307</td>
       <td width="14.3%">RTC DS1302</td>
@@ -357,7 +364,7 @@ MPY Blockly also supports standard  'text' programming for those who prefer to u
 
 <h3 id="common-sensors">Common Sensors</h3>
 <table>
-    <tr>
+    <tr class='tableHead'>
       <td width="14.3%">IR detector</td>
       <td width="14.3%">photorezistor</td>
       <td width="14.3%">Optical barrier</td>
@@ -377,7 +384,7 @@ MPY Blockly also supports standard  'text' programming for those who prefer to u
     </tr>
 </table>
 <table>
-    <tr>
+    <tr class='tableHead'>
       <td width="14.3%">PIR 312</td>
       <td width="14.3%">Infrared flame</td>
       <td width="14.3%">Hall probe</td>
