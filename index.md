@@ -140,7 +140,7 @@ MPY Blockly also supports standard  'text' programming for those who prefer to u
 		  <td class='category'>Functions</td>
       <td><img src="./assets/icons/function.png" width="55px" /></td>
       <td>Python Functions</td>
-    </tr class='category'>
+    </tr>
     <tr>
 		  <td class='category'>Network</td>
       <td><img src="./assets/icons/network.png" width="55px" /></td>
