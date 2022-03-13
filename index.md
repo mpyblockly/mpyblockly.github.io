@@ -101,12 +101,12 @@ MPY Blockly also supports standard  'text' programming for those who prefer to u
 
 <table>
     <tr>
-      <th>esp32 devkitC 32d</th>
-      <th>esp32 devkitC 32u</th>
-      <th>esp32 devkitC Wrover</th>
-      <th>esp32 goouuuu</th>
-      <th>esp32 mini borad</th>
-      <th>esp32 nodemcu 32s</th>
+      <td>esp32 devkitC 32d</td>
+      <td>esp32 devkitC 32u</td>
+      <td>esp32 devkitC Wrover</td>
+      <td>esp32 goouuuu</td>
+      <td>esp32 mini borad</td>
+      <td>esp32 nodemcu 32s</td>
     <tr>
       <td width='12.5%'><img src="./assets/hardwares/esp32_devkitC_wroom_32d.jpg" width="150px" /></td>
       <td width='12.5%'><img src="./assets/hardwares/esp32_devkitC_wroom_32u.jpg" width="150px" /></td>
@@ -116,8 +116,8 @@ MPY Blockly also supports standard  'text' programming for those who prefer to u
       <td width='12.5%'><img src="./assets/hardwares/esp32_nodemcu_32s.jpg" width="150px" /></td>
     </tr>
 		<tr>
-		  <th>esp32 t8 psram</th>
-      <th>esp32 uno d1r32</th>
+		  <td>esp32 t8 psram</th>
+      <td>esp32 uno d1r32</th>
     </tr>
 		<tr>
 		  <td width='12.5%'><img src="./assets/hardwares/esp32_t8_psram.jpg" width="150px" /></td>
