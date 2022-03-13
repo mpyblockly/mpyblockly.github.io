@@ -115,7 +115,6 @@ MPY Blockly also supports standard  'text' programming for those who prefer to u
       <td>esp32 mini borad</td>
       <td>esp32 nodemcu 32s</td>
 		  <td>esp32 t8 psram</td>
-
     </tr>
 		<tr>
       <td width='12.5%'><img src="./assets/hardwares/esp32_devkitC_wroom_32d.jpg" width="150px" /></td>
