@@ -107,6 +107,7 @@ MPY Blockly also supports standard  'text' programming for those who prefer to u
       <td>esp32 goouuuu</td>
       <td>esp32 mini borad</td>
       <td>esp32 nodemcu 32s</td>
+      <td>esp32 uno d1r32</td>
     </tr>
 		<tr>
       <td width='12.5%'><img src="./assets/hardwares/esp32_devkitC_wroom_32d.jpg" width="150px" /></td>
@@ -115,18 +116,21 @@ MPY Blockly also supports standard  'text' programming for those who prefer to u
       <td width='12.5%'><img src="./assets/hardwares/esp32_goouuuu.jpg" width="150px" /></td>
       <td width='12.5%'><img src="./assets/hardwares/esp32_mini_borad.jpg" width="150px" /></td>
       <td width='12.5%'><img src="./assets/hardwares/esp32_nodemcu_32s.jpg" width="150px" /></td>
+		  <td width='12.5%'><img src="./assets/hardwares/esp32_t8_psram.jpg" width="150px" /></td>
     </tr>
 		<tr>
 		  <td>esp32 t8 psram</td>
-      <td>esp32 uno d1r32</td>
 			<td></td>
 			<td></td>
 			<td></td>
 			<td></td>			
+			<td></td>
+			<td></td>
     </tr>
 		<tr>
-		  <td width='12.5%'><img src="./assets/hardwares/esp32_t8_psram.jpg" width="150px" /></td>
       <td width='12.5%'><img src="./assets/hardwares/esp32_uno_d1_r32.jpg" width="150px" /></td>
+			<td></td>
+			<td></td>
 			<td></td>
 			<td></td>
 			<td></td>
@@ -134,76 +138,261 @@ MPY Blockly also supports standard  'text' programming for those who prefer to u
 		</tr>
 </table>
 
-| esp32 devkitC 32d                                                        | esp32 devkitC 32u                                                        | esp32 devkitC Wrover                                                  | esp32 goouuuu                                                  | esp32 mini borad                                                  | esp32 nodemcu 32s                                                  | esp32 t8 psram                                                  | esp32 uno d1r32                                                   |
-| ------------------------------------------------------------------------ | ------------------------------------------------------------------------ | --------------------------------------------------------------------- | -------------------------------------------------------------- | ----------------------------------------------------------------- | ------------------------------------------------------------------ | --------------------------------------------------------------- | ----------------------------------------------------------------- |
-| <img src="./assets/hardwares/esp32_devkitC_wroom_32d.jpg" width='150px'> | <img src="./assets/hardwares/esp32_devkitC_wroom_32u.jpg" width='150px'> | <img src="./assets/hardwares/esp32_devkitC_wrover.jpg" width='150px'> | <img src="./assets/hardwares/esp32_goouuuu.jpg" width='150px'> | <img src="./assets/hardwares/esp32_mini_borad.jpg" width='150px'> | <img src="./assets/hardwares/esp32_nodemcu_32s.jpg" width='150px'> | <img src="./assets/hardwares/esp32_t8_psram.jpg" width='150px'> | <img src="./assets/hardwares/esp32_uno_d1_r32.jpg" width='150px'> |
+<h3 id="display---tft">Display - TFT</h3>
+<table>
+    <tr>
+      <td width="14.3%">st7735 128x160 blue</td>
+      <td width="14.3%">st7735 128x160 red</td>
+      <td width="14.3%">st7735 128x128 red</td>
+      <td width="14.3%">st7735 80x160 blue</td>
+      <td width="14.3%">st7789 240x240</td>
+      <td width="14.3%">st7789 135x240</td>
+      <td width="14.3%">ssd1351 128x128</td>
+   </tr>
+    <tr>
+      <td><img src="./assets/hardwares/st7735_128x160_blue.jpg" width="150px" /></td>
+      <td><img src="./assets/hardwares/st7735_128x160_red.jpg" width="150px" /></td>
+      <td><img src="./assets/hardwares/st7735_128x128_red.jpg" width="150px" /></td>
+      <td><img src="./assets/hardwares/st7735_80x160_blue.jpg" width="150px" /></td>
+      <td><img src="./assets/hardwares/st7789_240x240.jpg" width="150px" /></td>
+      <td><img src="./assets/hardwares/st7789_135x240.jpg" width="150px" /></td>
+      <td><img src="./assets/hardwares/ssd1351_128x128.jpg" width="150px" /></td>
+    </tr>
+</table>
+<table>
+    <tr>
+      <td width="14.3%">ssd1351 128x96</td>
+      <td width="14.3%">ssd1331 96x64</td>
+      <td width="14.3%">ili9341 240x320 red</td>
+      <td width="14.3%">ili9341 240x320 blue</td>
+      <td width="14.3%">                 </td>
+      <td width="14.3%">                 </td>
+      <td width="14.3%">                 </td>
+    </tr>
+    <tr>
+      <td><img src="./assets/hardwares/ssd1351_128x96.jpg" width="150px" /></td>
+      <td><img src="./assets/hardwares/ssd1331_96x64.jpg" width="150px" /></td>
+      <td><img src="./assets/hardwares/ili9341_240x320.jpg" width="150px" /></td>
+      <td><img src="./assets/hardwares/ili9341_240x320_blue.jpg" width="150px" /></td>
+      <td> </td>
+      <td width="14.3%">                 </td>
+      <td width="14.3%">                 </td>
+    </tr>
+</table>
 
-### Display - TFT
+<h3 id="display---monochrome">Display - Monochrome</h3>
+<table>
+    <tr>
+      <td width="14.3%">ssd1306 128x64</td>
+      <td width="14.3%">ssd1306 128x32</td>
+      <td width="14.3%">ssd1306 72x40</td>
+      <td width="14.3%">ssd1106 128x64</td>
+      <td width="14.3%">ssd1106 64x32</td>
+      <td width="14.3%">st7302 122x250</td>
+      <td width="14.3%">nokia5110 84x48</td>
+    </tr>
+    <tr>
+      <td><img src="./assets/hardwares/ssd1306_128x64.jpg" width="150px" /></td>
+      <td><img src="./assets/hardwares/ssd1306_128x32.jpg" width="150px" /></td>
+      <td><img src="./assets/hardwares/ssd1306_72x40.jpg" width="150px" /></td>
+      <td><img src="./assets/hardwares/ssd1106_128x64.jpg" width="150px" /></td>
+      <td><img src="./assets/hardwares/ssd1106_64x32.jpg" width="150px" /></td>
+      <td><img src="./assets/hardwares/st7302_122x250.jpg" width="150px" /></td>
+      <td><img src="./assets/hardwares/nokia5110_84x48.jpg" width="150px" /></td>
+    </tr>
+</table>
 
-| st7735 128x160 blue                                                  | st7735 128x160 red                                                  | st7735 128x128 red                                                  | st7735 80x160 blue                                                  | st7789 240x240                                                  | st7789 135x240                                                  |
-| -------------------------------------------------------------------- | ------------------------------------------------------------------- | ------------------------------------------------------------------- | ------------------------------------------------------------------- | --------------------------------------------------------------- | --------------------------------------------------------------- |
-| <img src="./assets/hardwares/st7735_128x160_blue.jpg" width='150px'> | <img src="./assets/hardwares/st7735_128x160_red.jpg" width='150px'> | <img src="./assets/hardwares/st7735_128x128_red.jpg" width='150px'> | <img src="./assets/hardwares/st7735_80x160_blue.jpg" width='150px'> | <img src="./assets/hardwares/st7789_240x240.jpg" width='150px'> | <img src="./assets/hardwares/st7789_135x240.jpg" width='150px'> |
+<h3 id="display---others">Display - Others</h3>
+<table>
+    <tr>
+      <td width="14.3%">LCD 16x2</td>
+      <td width="14.3%">LCD 20x4</td>
+      <td width="14.3%">tm1367 segment led</td>
+      <td width="14.3%">mxa7219 led matrix</td>
+      <td width="14.3%">ws2812 led matrix</td>
+      <td width="14.3%">ws2812 led ring</td>
+      <td width="14.3%">ws2812 led strip</td>
+    </tr>
+    <tr>
+      <td><img src="./assets/hardwares/lcd1602.jpg" width="150px" /></td>
+      <td><img src="./assets/hardwares/lcd2004.jpg" width="150px" /></td>
+      <td><img src="./assets/hardwares/tm1367.jpg" width="150px" /></td>
+      <td><img src="./assets/hardwares/mxa7219_led_matrix.jpg" width="150px" /></td>
+      <td><img src="./assets/hardwares/ws2812_led_matrix.jpg" width="150px" /></td>
+      <td><img src="./assets/hardwares/ws2812_led_ring.jpg" width="150px" /></td>
+      <td><img src="./assets/hardwares/ws2812_led_strip.jpg" width="150px" /></td>
+    </tr>
+</table>
 
-| ssd1351 128x128                                                  | ssd1351 128x96                                                  | ssd1331 96x64                                                  | ili9341 240x320 red                                              | ili9341 240x320 blue                                                  | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; |
-| ---------------------------------------------------------------- | --------------------------------------------------------------- | -------------------------------------------------------------- | ---------------------------------------------------------------- | --------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------ |
-| <img src="./assets/hardwares/ssd1351_128x128.jpg" width='150px'> | <img src="./assets/hardwares/ssd1351_128x96.jpg" width='150px'> | <img src="./assets/hardwares/ssd1331_96x64.jpg" width='150px'> | <img src="./assets/hardwares/ili9341_240x320.jpg" width='150px'> | <img src="./assets/hardwares/ili9341_240x320_blue.jpg" width='150px'> |
+<h3 id="sensors---temperature">Sensors - Temperature</h3>
+<table>
+    <tr>
+      <td width="14.3%">DHT11 Temp Humi</td>
+      <td width="14.3%">DHT22 Temp Humi</td>
+      <td width="14.3%">BMP280 Temp Humi Pressure</td>
+      <td width="14.3%">BMP180 Temp Humi Pressuree</td>
+      <td width="14.3%">sht3x High Accuracy Temp Humi</td>
+      <td width="14.3%">ds18b20 Temp</td>
+      <td width="14.3%">MLX90614  Infrared Thermometer</td>
+    </tr>
+    <tr>
+      <td><img src="./assets/hardwares/dht11.png" width="150px" /></td>
+      <td><img src="./assets/hardwares/dht22.jpg" width="150px" /></td>
+      <td><img src="./assets/hardwares/bmp280.jpg" width="150px" /></td>
+      <td><img src="./assets/hardwares/bmp180.jpg" width="150px" /></td>
+      <td><img src="./assets/hardwares/sht3x.jpg" width="150px" /></td>
+      <td><img src="./assets/hardwares/ds18b20.jpg" width="150px" /></td>
+      <td><img src="./assets/hardwares/MLX90614.jpg" width="150px" /></td>
+    </tr>
+</table>
 
-### Display - Monochrome
+<h3 id="sensors---distanceacceleromtermotion">Sensors - Distance&amp;Acceleromter&amp;Motion</h3>
+<table>
+    <tr>
+      <td width="14.3%">HC-SR04 Ultrasonic Distance</td>
+      <td width="14.3%">Vl53l0 ToF ranging</td>
+      <td width="14.3%">Vl53l1 ToF ranging</td>
+      <td width="14.3%">LIS3DH 3-Axis Motion</td>
+      <td width="14.3%">MPU6050 6-Axis Motion</td>
+      <td width="14.3%">MPU9250  9-Axis Motion</td>
+      <td width="14.3%">                 </td>
+    </tr>
+    <tr>
+      <td><img src="./assets/hardwares/hcsr04.png" width="150px" /></td>
+      <td><img src="./assets/hardwares/vl53l0.jpg" width="150px" /></td>
+      <td><img src="./assets/hardwares/vl53l1.jpg" width="150px" /></td>
+      <td><img src="./assets/hardwares/lis3dh.jpg" width="150px" /></td>
+      <td><img src="./assets/hardwares/mpu6050.jpg" width="150px" /></td>
+      <td><img src="./assets/hardwares/mpu9250.jpg" width="150px" /></td>
+      <td width="14.3%">                 </td>
+    </tr>
+</table>
 
-| ssd1306 128x64                                                  | ssd1306 128x32                                                  | ssd1306 72x40                                                  | ssd1106 128x64                                                  | ssd1106 64x32                                                  | st7302 122x250                                                  | nokia5110 84x48                                                  |
-| --------------------------------------------------------------- | --------------------------------------------------------------- | -------------------------------------------------------------- | --------------------------------------------------------------- | -------------------------------------------------------------- | --------------------------------------------------------------- | ---------------------------------------------------------------- |
-| <img src="./assets/hardwares/ssd1306_128x64.jpg" width='150px'> | <img src="./assets/hardwares/ssd1306_128x32.jpg" width='150px'> | <img src="./assets/hardwares/ssd1306_72x40.jpg" width='150px'> | <img src="./assets/hardwares/ssd1106_128x64.jpg" width='150px'> | <img src="./assets/hardwares/ssd1106_64x32.jpg" width='150px'> | <img src="./assets/hardwares/st7302_122x250.jpg" width='150px'> | <img src="./assets/hardwares/nokia5110_84x48.jpg" width='150px'> |
-
-### Display - Others
-
-| LCD 16x2                                                 | LCD 20x4                                                 | tm1367 segment led                                      | mxa7219 led matrix                                                  | ws2812 led matrix                                                  | ws2812 led ring                                                  | ws2812 led strip                                                  |
-| -------------------------------------------------------- | -------------------------------------------------------- | ------------------------------------------------------- | ------------------------------------------------------------------- | ------------------------------------------------------------------ | ---------------------------------------------------------------- | ----------------------------------------------------------------- |
-| <img src="./assets/hardwares/lcd1602.jpg" width='150px'> | <img src="./assets/hardwares/lcd2004.jpg" width='150px'> | <img src="./assets/hardwares/tm1367.jpg" width='150px'> | <img src="./assets/hardwares/mxa7219_led_matrix.jpg" width='150px'> | <img src="./assets/hardwares/ws2812_led_matrix.jpg" width='150px'> | <img src="./assets/hardwares/ws2812_led_ring.jpg" width='150px'> | <img src="./assets/hardwares/ws2812_led_strip.jpg" width='150px'> |
-
-### Sensors - Temperature
-
-| DHT11 Temp Humi                                        | DHT22 Temp Humi                                        | BMP280 Temp Humi Pressure                               | BMP180 Temp Humi Pressuree                              | sht3x High Accuracy Temp Humi                          | ds18b20 Temp                                             | MLX90614  Infrared Thermometer                            |
-| ------------------------------------------------------ | ------------------------------------------------------ | ------------------------------------------------------- | ------------------------------------------------------- | ------------------------------------------------------ | -------------------------------------------------------- | --------------------------------------------------------- |
-| <img src="./assets/hardwares/dht11.png" width='150px'> | <img src="./assets/hardwares/dht22.jpg" width='150px'> | <img src="./assets/hardwares/bmp280.jpg" width='150px'> | <img src="./assets/hardwares/bmp180.jpg" width='150px'> | <img src="./assets/hardwares/sht3x.jpg" width='150px'> | <img src="./assets/hardwares/ds18b20.jpg" width='150px'> | <img src="./assets/hardwares/MLX90614.jpg" width='150px'> |
-
-### Sensors - Distance&Acceleromter&Motion
-
-| HC-SR04 Ultrasonic Distance                             | Vl53l0 ToF ranging                                      | Vl53l1 ToF ranging                                      | LIS3DH 3-Axis Motion                                    | MPU6050 6-Axis Motion                                    | MPU9250  9-Axis Motion                                   |
-| ------------------------------------------------------- | ------------------------------------------------------- | ------------------------------------------------------- | ------------------------------------------------------- | -------------------------------------------------------- | -------------------------------------------------------- |
-| <img src="./assets/hardwares/hcsr04.png" width='150px'> | <img src="./assets/hardwares/vl53l0.jpg" width='150px'> | <img src="./assets/hardwares/vl53l1.jpg" width='150px'> | <img src="./assets/hardwares/lis3dh.jpg" width='150px'> | <img src="./assets/hardwares/mpu6050.jpg" width='150px'> | <img src="./assets/hardwares/mpu9250.jpg" width='150px'> |
-
-### Sensors - Others
-
-| APDS9930 Light Proximity                                  | MAX30102 Oximeter Heart-Rate                              | TCS3472 Color                                            | HMC5883l 3-Axis  Compass                                  | QMC5883 3-Axis Magnetic                                  |
-| --------------------------------------------------------- | --------------------------------------------------------- | -------------------------------------------------------- | --------------------------------------------------------- | -------------------------------------------------------- |
-| <img src="./assets/hardwares/apds9930.jpg" width='150px'> | <img src="./assets/hardwares/max30102.jpg" width='150px'> | <img src="./assets/hardwares/tcs3472.jpg" width='150px'> | <img src="./assets/hardwares/hmc5883l.jpg" width='150px'> | <img src="./assets/hardwares/qmc5883.jpg" width='150px'> |
-
-### Input - Button, Touch button, Joystick
-
-| Button                                                    | Five buttons                                              | joystick model 1                                            | Joystick model 2                                            | Touch button 1                                         | Touch button 4                                         | IR Remote                                                  |
-| --------------------------------------------------------- | --------------------------------------------------------- | ----------------------------------------------------------- | ----------------------------------------------------------- | ------------------------------------------------------ | ------------------------------------------------------ | ---------------------------------------------------------- |
-| <img src="./assets/hardwares/button_1.jpg" width='150px'> | <img src="./assets/hardwares/button_5.jpg" width='150px'> | <img src="./assets/hardwares/joystick_1.jpg" width='150px'> | <img src="./assets/hardwares/joystick_2.jpg" width='150px'> | <img src="./assets/hardwares/ttp_1.jpg" width='150px'> | <img src="./assets/hardwares/ttp_4.jpg" width='150px'> | <img src="./assets/hardwares/ir_remote.jpg" width='150px'> |
-
-
-### Motor, Servo and Stepper
-
-| L298N Motor Drive Controller                                 | L9110S Motor Drive Controller                                 | L9110S-4 Motor Drive Controller                                 | Stepper ULN2003 Driver                                           | SG90 Servo 180                                            | SG90 Servo 360                                            | MG90 Servo 180/360                                        |
-| ------------------------------------------------------------ | ------------------------------------------------------------- | --------------------------------------------------------------- | ---------------------------------------------------------------- | --------------------------------------------------------- | --------------------------------------------------------- | --------------------------------------------------------- |
-| <img src="./assets/hardwares/motor_l298n.jpg" width='150px'> | <img src="./assets/hardwares/motor_l9110s.jpg" width='150px'> | <img src="./assets/hardwares/motor_l9110s_4.jpg" width='150px'> | <img src="./assets/hardwares/stepper_uln2003.jpg" width='150px'> | <img src="./assets/hardwares/sg90-180.jpg" width='150px'> | <img src="./assets/hardwares/sg90-360.jpg" width='150px'> | <img src="./assets/hardwares/mg90-360.jpg" width='150px'> |
-
-### RTC, DAC, RFID and Relay
-
-| RTC DS3231                                              | RTC DS1307                                              | RTC DS1302                                              | DAC MCP4725                                              | RFID MFRC522                                             | Relay 1-channel                                                     | Relay 2-channel                                                     |
-| ------------------------------------------------------- | ------------------------------------------------------- | ------------------------------------------------------- | -------------------------------------------------------- | -------------------------------------------------------- | ------------------------------------------------------------------- | ------------------------------------------------------------------- |
-| <img src="./assets/hardwares/ds3231.jpg" width='150px'> | <img src="./assets/hardwares/ds1307.jpg" width='150px'> | <img src="./assets/hardwares/ds1302.jpg" width='150px'> | <img src="./assets/hardwares/mcp4725.png" width='150px'> | <img src="./assets/hardwares/mfrc522.jpg" width='150px'> | <img src="./assets/hardwares/1-channel-5v-relay.jpg" width='150px'> | <img src="./assets/hardwares/2-Channel-5V-Relay.jpg" width='150px'> |
+<h3 id="sensors---others">Sensors - Others</h3>
+<table>
+    <tr>
+      <td width="14.3%">APDS9930 Light Proximity</td>
+      <td width="14.3%">MAX30102 Oximeter Heart-Rate</td>
+      <td width="14.3%">TCS3472 Color</td>
+      <td width="14.3%">HMC5883l 3-Axis  Compass</td>
+      <td width="14.3%">QMC5883 3-Axis Magnetic</td>
+      <td width="14.3%">                 </td>
+      <td width="14.3%">                 </td>
+    </tr>
+    <tr>
+      <td><img src="./assets/hardwares/apds9930.jpg" width="150px" /></td>
+      <td><img src="./assets/hardwares/max30102.jpg" width="150px" /></td>
+      <td><img src="./assets/hardwares/tcs3472.jpg" width="150px" /></td>
+      <td><img src="./assets/hardwares/hmc5883l.jpg" width="150px" /></td>
+      <td><img src="./assets/hardwares/qmc5883.jpg" width="150px" /></td>
+      <td width="14.3%">                 </td>
+      <td width="14.3%">                 </td>
+    </tr>
+</table>
 
 
-### Common Sensors
+<h3 id="input---button-touch-button-joystick">Input - Button, Touch button, Joystick</h3>
+<table>
+    <tr>
+      <td width="14.3%">Button</td>
+      <td width="14.3%">Five buttons</td>
+      <td width="14.3%">joystick model 1</td>
+      <td width="14.3%">Joystick model 2</td>
+      <td width="14.3%">Touch button 1</td>
+      <td width="14.3%">Touch button 4</td>
+      <td width="14.3%">IR Remote</td>
+    </tr>
+    <tr>
+      <td><img src="./assets/hardwares/button_1.jpg" width="150px" /></td>
+      <td><img src="./assets/hardwares/button_5.jpg" width="150px" /></td>
+      <td><img src="./assets/hardwares/joystick_1.jpg" width="150px" /></td>
+      <td><img src="./assets/hardwares/joystick_2.jpg" width="150px" /></td>
+      <td><img src="./assets/hardwares/ttp_1.jpg" width="150px" /></td>
+      <td><img src="./assets/hardwares/ttp_4.jpg" width="150px" /></td>
+      <td><img src="./assets/hardwares/ir_remote.jpg" width="150px" /></td>
+    </tr>
+</table>
+<h3 id="motor-servo-and-stepper">Motor, Servo and Stepper</h3>
+<table>
+    <tr>
+      <td width="14.3%">L298N Motor Drive Controller</td>
+      <td width="14.3%">L9110S Motor Drive Controller</td>
+      <td width="14.3%">L9110S-4 Motor Drive Controller</td>
+      <td width="14.3%">Stepper ULN2003 Driver</td>
+      <td width="14.3%">SG90 Servo 180</td>
+      <td width="14.3%">SG90 Servo 360</td>
+      <td width="14.3%">MG90 Servo 180/360</td>
+    </tr>
+    <tr>
+      <td><img src="./assets/hardwares/motor_l298n.jpg" width="150px" /></td>
+      <td><img src="./assets/hardwares/motor_l9110s.jpg" width="150px" /></td>
+      <td><img src="./assets/hardwares/motor_l9110s_4.jpg" width="150px" /></td>
+      <td><img src="./assets/hardwares/stepper_uln2003.jpg" width="150px" /></td>
+      <td><img src="./assets/hardwares/sg90-180.jpg" width="150px" /></td>
+      <td><img src="./assets/hardwares/sg90-360.jpg" width="150px" /></td>
+      <td><img src="./assets/hardwares/mg90-360.jpg" width="150px" /></td>
+    </tr>
+</table>
+<h3 id="rtc-dac-rfid-and-relay">RTC, DAC, RFID and Relay</h3>
+<table>
+    <tr>
+      <td width="14.3%">RTC DS3231</td>
+      <td width="14.3%">RTC DS1307</td>
+      <td width="14.3%">RTC DS1302</td>
+      <td width="14.3%">DAC MCP4725</td>
+      <td width="14.3%">RFID MFRC522</td>
+      <td width="14.3%">Relay 1-channel</td>
+      <td width="14.3%">Relay 2-channel</td>
+    </tr>
+    <tr>
+      <td><img src="./assets/hardwares/ds3231.jpg" width="150px" /></td>
+      <td><img src="./assets/hardwares/ds1307.jpg" width="150px" /></td>
+      <td><img src="./assets/hardwares/ds1302.jpg" width="150px" /></td>
+      <td><img src="./assets/hardwares/mcp4725.png" width="150px" /></td>
+      <td><img src="./assets/hardwares/mfrc522.jpg" width="150px" /></td>
+      <td><img src="./assets/hardwares/1-channel-5v-relay.jpg" width="150px" /></td>
+      <td><img src="./assets/hardwares/2-Channel-5V-Relay.jpg" width="150px" /></td>
+    </tr>
+</table>
 
-| IR detector                                                         | photorezistor                                                         | Optical barrier                                                         | microphone                                                  | RCWL-0516                                                                                          | PIR SB00422A-1                                                        | PIR HC-SR505                                                         |
-| ------------------------------------------------------------------- | --------------------------------------------------------------------- | ----------------------------------------------------------------------- | ----------------------------------------------------------- | -------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------- | -------------------------------------------------------------------- |
-| <img src="./assets/hardwares/IR_detector_sensor.jpg" width='150px'> | <img src="./assets/hardwares/photorezistor_module.jpg" width='150px'> | <img src="./assets/hardwares/Optical_barrier_module.jpg" width='150px'> | <img src="./assets/hardwares/microphone.jpg" width='150px'> | <img src="./assets/hardwares/Motion_detector_Microwave_Doppler_radar_RCWL-0516.jpg" width='150px'> | <img src="./assets/hardwares/PIR_modul_SB00422A-1.jpg" width='150px'> | <img src="./assets/hardwares/PIR_module_HC-SR505.jpg" width='150px'> |
-
-| PIR 312                                                                   | Infrared flame                                                         | Hall probe                                                         | Current sensor                                                      | TCRT5000 IRtracing                                                                      | SW-1801P shock                                                                     | Light sensor                                                         |
-| ------------------------------------------------------------------------- | ---------------------------------------------------------------------- | ------------------------------------------------------------------ | ------------------------------------------------------------------- | --------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------- | -------------------------------------------------------------------- |
-| <img src="./assets/hardwares/PIR_modul_PIR_module_312.jpg" width='150px'> | <img src="./assets/hardwares/Infrared_flame_sensor.jpg" width='150px'> | <img src="./assets/hardwares/Hall_probe_module.jpg" width='150px'> | <img src="./assets/hardwares/30A_current_sensor.jpg" width='150px'> | <img src="./assets/hardwares/Module_with_TCRT5000_IR_tracing_sensor.jpg" width='150px'> | <img src="./assets/hardwares/Module_with_SW-1801P_shock_sensor.jpg" width='150px'> | <img src="./assets/hardwares/Light_sensor_module.jpg" width='150px'> |
+<h3 id="common-sensors">Common Sensors</h3>
+<table>
+    <tr>
+      <td width="14.3%">IR detector</td>
+      <td width="14.3%">photorezistor</td>
+      <td width="14.3%">Optical barrier</td>
+      <td width="14.3%">microphone</td>
+      <td width="14.3%">RCWL-0516</td>
+      <td width="14.3%">PIR SB00422A-1</td>
+      <td width="14.3%">PIR HC-SR505</td>
+    </tr>
+    <tr>
+      <td><img src="./assets/hardwares/IR_detector_sensor.jpg" width="150px" /></td>
+      <td><img src="./assets/hardwares/photorezistor_module.jpg" width="150px" /></td>
+      <td><img src="./assets/hardwares/Optical_barrier_module.jpg" width="150px" /></td>
+      <td><img src="./assets/hardwares/microphone.jpg" width="150px" /></td>
+      <td><img src="./assets/hardwares/Motion_detector_Microwave_Doppler_radar_RCWL-0516.jpg" width="150px" /></td>
+      <td><img src="./assets/hardwares/PIR_modul_SB00422A-1.jpg" width="150px" /></td>
+      <td><img src="./assets/hardwares/PIR_module_HC-SR505.jpg" width="150px" /></td>
+    </tr>
+</table>
+<table>
+    <tr>
+      <td width="14.3%">PIR 312</td>
+      <td width="14.3%">Infrared flame</td>
+      <td width="14.3%">Hall probe</td>
+      <td width="14.3%">Current sensor</td>
+      <td width="14.3%">TCRT5000 IRtracing</td>
+      <td width="14.3%">SW-1801P shock</td>
+      <td width="14.3%">Light sensor</td>
+    </tr>
+    <tr>
+      <td><img src="./assets/hardwares/PIR_modul_PIR_module_312.jpg" width="150px" /></td>
+      <td><img src="./assets/hardwares/Infrared_flame_sensor.jpg" width="150px" /></td>
+      <td><img src="./assets/hardwares/Hall_probe_module.jpg" width="150px" /></td>
+      <td><img src="./assets/hardwares/30A_current_sensor.jpg" width="150px" /></td>
+      <td><img src="./assets/hardwares/Module_with_TCRT5000_IR_tracing_sensor.jpg" width="150px" /></td>
+      <td><img src="./assets/hardwares/Module_with_SW-1801P_shock_sensor.jpg" width="150px" /></td>
+      <td><img src="./assets/hardwares/Light_sensor_module.jpg" width="150px" /></td>
+    </tr>
+</table>
