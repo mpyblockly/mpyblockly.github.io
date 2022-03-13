@@ -111,122 +111,122 @@ MPY Blockly also supports standard  'text' programming for those who prefer to u
     <tr>
 		  <td>MCU</td>
       <td><img src="./assets/icons/mcu.png" width="55px" /></td>
-      <td></td>
+      <td>ESP32 Chip functions, such as Pins and GPIO, ,Touch Keys, Timer, general borad control.</td>
     </tr>
     <tr>
 		  <td>Control</td>
       <td><img src="./assets/icons/control.png" width="55px" /></td>
-      <td></td>
+      <td>Python If...Else, Loop and Logic.</td>
     </tr>
     <tr>
 		  <td>Text</td>
       <td><img src="./assets/icons/text.png" width="55px" /></td>
-      <td></td>
+      <td>Python Common string operations</td>
     </tr>
     <tr>
 		  <td>Math</td>
       <td><img src="./assets/icons/math.png" width="55px" /></td>
-      <td></td>
+      <td>Python Mathematical functions</td>
     </tr>
     <tr>
 		  <td>Variables</td>
       <td><img src="./assets/icons/var.png" width="55px" /></td>
-      <td></td>
+      <td>Python Variable</td>
     </tr>
     <tr>
 		  <td>Functions</td>
       <td><img src="./assets/icons/function.png" width="55px" /></td>
-      <td></td>
+      <td>Python Functions</td>
     </tr>
     <tr>
 		  <td>Network</td>
       <td><img src="./assets/icons/network.png" width="55px" /></td>
-      <td></td>
+      <td>ESP32 Wifi, Client, AP, Radio(ESP NOW), HTTP Client and Socket</td>
     </tr>
     <tr>
 		  <td>Storage</td>
       <td><img src="./assets/icons/storage.png" width="55px" /></td>
-      <td></td>
+      <td>Btree database, File operator and SD Card.</td>
     </tr>
     <tr>
 		  <td>List</td>
       <td><img src="./assets/icons/list.png" width="55px" /></td>
-      <td></td>
+      <td>Python Data Structre List</td>
     </tr>
     <tr>
 		  <td>Tuple</td>
       <td><img src="./assets/icons/tuple.png" width="55px" /></td>
-      <td></td>
+      <td>Python Data Structre Tuple</td>
     </tr>
     <tr>
 		  <td>Set</td>
       <td><img src="./assets/icons/set.png" width="55px" /></td>
-      <td></td>
+      <td>Python Data Structre Set</td>
     </tr>
     <tr>
 		  <td>TFT&Mono</td>
       <td><img src="./assets/icons/tft.png" width="55px" /></td>
-      <td></td>
+      <td>Draw functions(rect,circle,text,image...), UI functions, TFT Drivers(ST7789, ST7735, ILI9431, SSD1351, SSD1331) and Monechrome Drivers(SSD1306, SSD1106, ST7302, PCD8455).</td>
     </tr>
     <tr>
 		  <td>7SegLed</td>
       <td><img src="./assets/icons/segment.png" width="55px" /></td>
-      <td></td>
+      <td>TM1367 4-digit 7-segment LED display</td>
     </tr>
     <tr>
 		  <td>LCD</td>
       <td><img src="./assets/icons/lcd.png" width="55px" /></td>
-      <td></td>
+      <td>LCD I2C ( LCD1602/1604/2004)</td>
     </tr>
     <tr>
 		  <td>LED Matrix</td>
       <td><img src="./assets/icons/matrix.png" width="55px" /></td>
-      <td></td>
+      <td>MAX7219 LED Matrix</td>
     </tr>
     <tr>
 		  <td>Neopixel</td>
       <td><img src="./assets/icons/neopixel.png" width="55px" /></td>
-      <td></td>
+      <td>Neopixel RGB LEDs</td>
     </tr>
     <tr>
 		  <td>Sensors</td>
       <td><img src="./assets/icons/sensors.png" width="55px" /></td>
-      <td></td>
+      <td>Sensors include Temperature, Distance, Accelerometer, Motion Inertial, Compass, Colour, Proximity and Biometric.</td>
     </tr>
     <tr>
 		  <td>Actuator</td>
       <td><img src="./assets/icons/actuator.png" width="55px" /></td>
-      <td></td>
+      <td>Actuator Modules include Button, IR Remote, Rotary, Motor, Servo, Stepper, RTC, DAC, RFID and others.</td>
     </tr>
     <tr>
 		  <td>Buzzer</td>
       <td><img src="./assets/icons/buzzer.png" width="55px" /></td>
-      <td></td>
+      <td>Music from buzzer</td>
     </tr>
     <tr>
 		  <td>Audio</td>
       <td><img src="./assets/icons/audio.png" width="55px" /></td>
-      <td></td>
+      <td>Audio with I2S, Play MP3 or Wav, Record, TTS and Audio indentify.</td>
     </tr>
-        <tr>
+      <tr>
 		  <td>Bus</td>
       <td><img src="./assets/icons/bus.png" width="55px" /></td>
-      <td></td>
+      <td>ESP32 I2C and SPI Bus</td>
     </tr>
 		  <tr>
 		  <td>Bluetooth</td>
       <td><img src="./assets/icons/ble.png" width="55px" /></td>
-      <td></td>
+      <td>ESP32 Bluetooth includes Perpheral, Centeral, BLE HID and BLU UART.</td>
     </tr>
 		  <tr>
 		  <td>UART</td>
       <td><img src="./assets/icons/uart.png" width="55px" /></td>
-      <td></td>
+      <td>ESP32 UART.</td>
     </tr>
 	    <tr>
 		  <td>IoT</td>
       <td><img src="./assets/icons/iot.png" width="55px" /></td>
-      <td></td>
+      <td>IoT functions include MQTT, Blynk and OMA Weather.</td>
     </tr>
 </table>
 
