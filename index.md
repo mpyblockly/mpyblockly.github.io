@@ -104,7 +104,7 @@ MPY Blockly also supports standard  'text' programming for those who prefer to u
 ## Built-in supported Hardwares
 
 
-<h3 id="mcu1">MCU</h3>
+<h3 id="mcu">MCU</h3>
 
 <table>
     <tr class='tableHead'>
@@ -127,7 +127,7 @@ MPY Blockly also supports standard  'text' programming for those who prefer to u
     </tr>
     <tr class='tableHead'>
       <td>esp32 uno d1r32</td>
-			<td>FireBeetle ESP32/td>
+			<td>FireBeetle ESP32</td>
 			<td></td>
 			<td></td>
 			<td></td>			
