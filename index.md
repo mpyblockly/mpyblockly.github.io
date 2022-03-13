@@ -116,12 +116,20 @@ MPY Blockly also supports standard  'text' programming for those who prefer to u
       <td width='12.5%'><img src="./assets/hardwares/esp32_nodemcu_32s.jpg" width="150px" /></td>
     </tr>
 		<tr>
-		  <td>esp32 t8 psram</th>
-      <td>esp32 uno d1r32</th>
+		  <td>esp32 t8 psram</td>
+      <td>esp32 uno d1r32</td>
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>			
     </tr>
 		<tr>
 		  <td width='12.5%'><img src="./assets/hardwares/esp32_t8_psram.jpg" width="150px" /></td>
       <td width='12.5%'><img src="./assets/hardwares/esp32_uno_d1_r32.jpg" width="150px" /></td>
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
 		</tr>
 
 </table>
