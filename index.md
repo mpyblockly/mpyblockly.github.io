@@ -157,7 +157,7 @@ MPY Blockly also supports standard  'text' programming for those who prefer to u
     <tr>
 		  <td class='category'>TFT&Mono</td>
       <td><img src="./assets/icons/tft.png" width="55px" /></td>
-      <td>Draw functions(rect,circle,text,image...), UI functions, TFT Drivers(ST7789, ST7735, ILI9431, SSD1351, SSD1331) and Monechrome Drivers(SSD1306, SSD1106, ST7302, PCD8455). Built-in six fonts and 700+ bitmap icons.</td>
+      <td>Draw functions(rect,circle,text,image...), UI functions, TFT Drivers(ST7789, ST7735, ILI9431, SSD1351, SSD1331) and Monechrome Drivers(SSD1306, SSD1106, ST7302, PCD8455). Built-in six fonts and 360 bitmap icons.</td>
     </tr>
     <tr>
 		  <td class='category'>7SegLed</td>
