@@ -16,6 +16,14 @@ _dis = display(_st7735,'ST7735_FB',_color.WHITE,_color.BLACK)
 _dis.fill(_color.BLACK)
 _dis.dev.show()
 
+from pngdecode import png_decode
+
+import framebuf
+
+import fonts.spleen16 as spleen16
+
+import fonts.system8 as system8
+
 from mpyb_wifi import *
 
 import network
@@ -30,23 +38,25 @@ import time
 
 import datetimeformat
 
-from pngdecode import png_decode
-
-import framebuf
-
-import fonts.spleen16 as spleen16
-
 import fonts.digiface30 as digiface30
 
 import fonts.spleen24 as spleen24
 
 from fonts.icons import draw_icon
 
-import fonts.system8 as system8
+from gui.gui import *
 
 import machine
 
-myUI = UI(oled)
+_ui = UI(_dis)
+(_png_buf,_png_w,_png_h) = png_decode('/resources/images/weathericons/60/black/03d.png')
+_png_fbc = framebuf.FrameBuffer(_png_buf, _png_w,_png_h, framebuf.RGB565)
+_dis.dev.blit(_png_fbc,34,10)
+_dis.set_fgcolor(_dis.dev.TFTColor(255,204,0))
+_dis.draw_text(spleen16,'Weather Station',2,80,1,_dis.fgcolor,_dis.bgcolor,0,True,0,0)
+_dis.set_fgcolor(_dis.dev.TFTColor(255,255,255))
+_dis.draw_text(system8,'Loading...',30,120,1,_dis.fgcolor,_dis.bgcolor,0,True,0,0)
+_dis.dev.show()
 try:
   my_wifi.connectWiFi('mpyblockly', 'mpyblockly')
   ntptime.settime(0, "time.windows.com")
@@ -67,12 +77,12 @@ try:
     _dis.draw_text(spleen24,(''.join([str(x3) for x3 in [datetimeformat.get_datetime_left_aligns_zero()[2], '/', datetimeformat.get_datetime_left_aligns_zero()[1], ' ', datetimeformat.get_weekday_name((time.localtime()[6]))[1]]])),6,104,1,_dis.fgcolor,_dis.bgcolor,0,True,0,0)
     _dis.set_fgcolor(_dis.dev.TFTColor(255,102,0))
     draw_icon(28,_dis,2,132,1,_dis.fgcolor,_dis.bgcolor,1);
-    myUI.ProgressBar(14, 132, 68, 8, (1 * (weatherinfo["current"]["temp"])))
+    _ui.ProgressBar(14, 132, 68, 8, (1 * (weatherinfo["current"]["temp"])))
     _dis.set_fgcolor(_dis.dev.TFTColor(255,255,255))
     _dis.draw_text(system8,(str(weatherinfo["current"]["temp"]) + 'C'),84,132,1,_dis.fgcolor,_dis.bgcolor,0,True,0,0)
     _dis.set_fgcolor(_dis.dev.TFTColor(51,204,255))
     draw_icon(27,_dis,2,147,1,_dis.fgcolor,_dis.bgcolor,1);
-    myUI.ProgressBar(14, 147, 68, 8, (weatherinfo["current"]["humidity"]))
+    _ui.ProgressBar(14, 147, 68, 8, (weatherinfo["current"]["humidity"]))
     _dis.set_fgcolor(_dis.dev.TFTColor(255,255,255))
     _dis.draw_text(system8,(str(weatherinfo["current"]["humidity"]) + '%'),84,147,1,_dis.fgcolor,_dis.bgcolor,0,True,0,0)
     _dis.dev.show()
