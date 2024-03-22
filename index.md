@@ -27,6 +27,8 @@
 	font-weight: 800;
 }
 </style>
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-8260413482385982"
+     crossorigin="anonymous"></script>
 
 # What is MPY Blockly?
 MPY Blockly is a free visual  programming tools for Micropython on ESP32.By stacking coloured blocks on top of each other a control program can be rapidly generated. 
